@@ -1,0 +1,1909 @@
+[2026-06-01 18:37:14.801] [debug] Sending request 'snapshot-layout' (timeout: 60000ms)
+[2026-06-01 18:37:14.806] [debug] Sending request: snapshot-layout { id: 'ext-383-1780310234806', hasPayload: true }
+[2026-06-01 18:37:14.807] [debug] Sending request 'snapshot-layout' (timeout: 60000ms)
+[2026-06-01 18:37:14.807] [debug] Sending request: snapshot-layout { id: 'ext-384-1780310234807', hasPayload: true }
+[2026-06-01 18:37:14.809] [debug] Received response: snapshot-layout { id: 'ext-383-1780310234806', hasPayload: true }
+[2026-06-01 18:37:14.811] [debug] Received response: snapshot-layout { id: 'ext-384-1780310234807', hasPayload: true }
+[2026-06-01 18:42:09.284] [debug] Sending request 'batch-get' (timeout: 60000ms)
+[2026-06-01 18:42:09.287] [debug] Sending request: batch-get { id: 'ext-385-1780310529287', hasPayload: true }
+[2026-06-01 18:42:09.287] [debug] Sending request 'snapshot-layout' (timeout: 60000ms)
+[2026-06-01 18:42:09.288] [debug] Sending request: snapshot-layout { id: 'ext-386-1780310529288', hasPayload: true }
+[2026-06-01 18:42:09.288] [debug] Sending request 'get-screenshot' (timeout: 60000ms)
+[2026-06-01 18:42:09.289] [debug] Sending request: get-screenshot { id: 'ext-387-1780310529289', hasPayload: true }
+[2026-06-01 18:42:09.289] [debug] Sending request 'get-screenshot' (timeout: 60000ms)
+[2026-06-01 18:42:09.289] [debug] Sending request: get-screenshot { id: 'ext-388-1780310529289', hasPayload: true }
+[2026-06-01 18:42:09.289] [debug] Sending request 'snapshot-layout' (timeout: 60000ms)
+[2026-06-01 18:42:09.290] [debug] Sending request: snapshot-layout { id: 'ext-389-1780310529290', hasPayload: true }
+[2026-06-01 18:42:09.291] [debug] Received response: batch-get { id: 'ext-385-1780310529287', hasPayload: true }
+[2026-06-01 18:42:09.293] [debug] Received response: snapshot-layout { id: 'ext-386-1780310529288', hasPayload: true }
+[2026-06-01 18:42:09.314] [debug] Received response: snapshot-layout { id: 'ext-389-1780310529290', hasPayload: true }
+[2026-06-01 18:42:09.320] [debug] Received response: get-screenshot { id: 'ext-387-1780310529289', hasPayload: true }
+[2026-06-01 18:42:09.321] [debug] Received response: get-screenshot { id: 'ext-388-1780310529289', hasPayload: true }
+[2026-06-01 18:43:04.290] [debug] Sending request 'batch-design' (timeout: 60000ms)
+[2026-06-01 18:43:04.291] [debug] Sending request: batch-design { id: 'ext-390-1780310584291', hasPayload: true }
+[2026-06-01 18:43:04.303] [debug] Received notification: file-changed { id: 'ext-220-1780310584302', hasPayload: false }
+[2026-06-01 18:43:04.303] [debug] Handling notification 'file-changed' with 1 handlers
+[2026-06-01 18:43:04.304] [info]  [IPC] file-changed
+[2026-06-01 18:43:04.304] [debug] Sending request 'save' (timeout: 60000ms)
+[2026-06-01 18:43:04.304] [debug] Sending request: save { id: 'ext-391-1780310584304', hasPayload: true }
+[2026-06-01 18:43:04.305] [debug] Received response: batch-design { id: 'ext-390-1780310584291', hasPayload: true }
+[2026-06-01 18:43:04.319] [debug] Received response: save { id: 'ext-391-1780310584304', hasPayload: true }
+[2026-06-01 18:43:04.324] [info]  Saved backup to  C:\Users\root\.pencil\backup\63c918176dadd5ea06a6c386f6363c14af8fcd30
+[2026-06-01 18:43:24.466] [debug] Sending request 'snapshot-layout' (timeout: 60000ms)
+[2026-06-01 18:43:24.466] [debug] Sending request: snapshot-layout { id: 'ext-392-1780310604466', hasPayload: true }
+[2026-06-01 18:43:24.467] [debug] Sending request 'snapshot-layout' (timeout: 60000ms)
+[2026-06-01 18:43:24.467] [debug] Sending request: snapshot-layout { id: 'ext-393-1780310604467', hasPayload: true }
+[2026-06-01 18:43:24.468] [debug] Sending request 'get-screenshot' (timeout: 60000ms)
+[2026-06-01 18:43:24.468] [debug] Sending request: get-screenshot { id: 'ext-394-1780310604468', hasPayload: true }
+[2026-06-01 18:43:24.468] [debug] Sending request 'get-screenshot' (timeout: 60000ms)
+[2026-06-01 18:43:24.468] [debug] Sending request: get-screenshot { id: 'ext-395-1780310604468', hasPayload: true }
+[2026-06-01 18:43:24.470] [debug] Received response: snapshot-layout { id: 'ext-392-1780310604466', hasPayload: true }
+[2026-06-01 18:43:24.473] [debug] Received response: snapshot-layout { id: 'ext-393-1780310604467', hasPayload: true }
+[2026-06-01 18:43:24.497] [debug] Received response: get-screenshot { id: 'ext-394-1780310604468', hasPayload: true }
+[2026-06-01 18:43:24.500] [debug] Received response: get-screenshot { id: 'ext-395-1780310604468', hasPayload: true }
+[2026-06-01 18:44:16.943] [debug] Sending request 'batch-design' (timeout: 60000ms)
+[2026-06-01 18:44:16.943] [debug] Sending request: batch-design { id: 'ext-396-1780310656943', hasPayload: true }
+[2026-06-01 18:44:16.953] [debug] Received notification: file-changed { id: 'ext-221-1780310656953', hasPayload: false }
+[2026-06-01 18:44:16.953] [debug] Handling notification 'file-changed' with 1 handlers
+[2026-06-01 18:44:16.954] [info]  [IPC] file-changed
+[2026-06-01 18:44:16.955] [debug] Received response: batch-design { id: 'ext-396-1780310656943', hasPayload: true }
+[2026-06-01 18:44:16.956] [debug] Sending request 'save' (timeout: 60000ms)
+[2026-06-01 18:44:16.956] [debug] Sending request: save { id: 'ext-397-1780310656956', hasPayload: true }
+[2026-06-01 18:44:16.981] [debug] Received response: save { id: 'ext-397-1780310656956', hasPayload: true }
+[2026-06-01 18:44:16.985] [info]  Saved backup to  C:\Users\root\.pencil\backup\63c918176dadd5ea06a6c386f6363c14af8fcd30
+[2026-06-01 18:44:35.030] [debug] Sending request 'snapshot-layout' (timeout: 60000ms)
+[2026-06-01 18:44:35.030] [debug] Sending request: snapshot-layout { id: 'ext-398-1780310675030', hasPayload: true }
+[2026-06-01 18:44:35.031] [debug] Sending request 'snapshot-layout' (timeout: 60000ms)
+[2026-06-01 18:44:35.031] [debug] Sending request: snapshot-layout { id: 'ext-399-1780310675031', hasPayload: true }
+[2026-06-01 18:44:35.032] [debug] Sending request 'get-screenshot' (timeout: 60000ms)
+[2026-06-01 18:44:35.032] [debug] Sending request: get-screenshot { id: 'ext-400-1780310675032', hasPayload: true }
+[2026-06-01 18:44:35.032] [debug] Sending request 'get-screenshot' (timeout: 60000ms)
+[2026-06-01 18:44:35.032] [debug] Sending request: get-screenshot { id: 'ext-401-1780310675032', hasPayload: true }
+[2026-06-01 18:44:35.033] [debug] Received response: snapshot-layout { id: 'ext-398-1780310675030', hasPayload: true }
+[2026-06-01 18:44:35.036] [debug] Received response: snapshot-layout { id: 'ext-399-1780310675031', hasPayload: true }
+[2026-06-01 18:44:35.069] [debug] Received response: get-screenshot { id: 'ext-400-1780310675032', hasPayload: true }
+[2026-06-01 18:44:35.071] [debug] Received response: get-screenshot { id: 'ext-401-1780310675032', hasPayload: true }
+[2026-06-01 18:45:07.379] [debug] Sending request 'batch-design' (timeout: 60000ms)
+[2026-06-01 18:45:07.379] [debug] Sending request: batch-design { id: 'ext-402-1780310707379', hasPayload: true }
+[2026-06-01 18:45:07.388] [debug] Received notification: file-changed { id: 'ext-222-1780310707388', hasPayload: false }
+[2026-06-01 18:45:07.388] [debug] Handling notification 'file-changed' with 1 handlers
+[2026-06-01 18:45:07.388] [info]  [IPC] file-changed
+[2026-06-01 18:45:07.389] [debug] Received response: batch-design { id: 'ext-402-1780310707379', hasPayload: true }
+[2026-06-01 18:45:07.389] [debug] Sending request 'save' (timeout: 60000ms)
+[2026-06-01 18:45:07.390] [debug] Sending request: save { id: 'ext-403-1780310707390', hasPayload: true }
+[2026-06-01 18:45:07.417] [debug] Received response: save { id: 'ext-403-1780310707390', hasPayload: true }
+[2026-06-01 18:45:07.422] [info]  Saved backup to  C:\Users\root\.pencil\backup\63c918176dadd5ea06a6c386f6363c14af8fcd30
+[2026-06-01 18:45:18.744] [debug] Sending request 'get-screenshot' (timeout: 60000ms)
+[2026-06-01 18:45:18.744] [debug] Sending request: get-screenshot { id: 'ext-404-1780310718744', hasPayload: true }
+[2026-06-01 18:45:18.745] [debug] Sending request 'snapshot-layout' (timeout: 60000ms)
+[2026-06-01 18:45:18.746] [debug] Sending request: snapshot-layout { id: 'ext-405-1780310718746', hasPayload: true }
+[2026-06-01 18:45:18.746] [debug] Sending request 'snapshot-layout' (timeout: 60000ms)
+[2026-06-01 18:45:18.746] [debug] Sending request: snapshot-layout { id: 'ext-406-1780310718746', hasPayload: true }
+[2026-06-01 18:45:18.747] [debug] Sending request 'get-screenshot' (timeout: 60000ms)
+[2026-06-01 18:45:18.747] [debug] Sending request: get-screenshot { id: 'ext-407-1780310718747', hasPayload: true }
+[2026-06-01 18:45:18.758] [debug] Received response: snapshot-layout { id: 'ext-405-1780310718746', hasPayload: true }
+[2026-06-01 18:45:18.759] [debug] Received response: snapshot-layout { id: 'ext-406-1780310718746', hasPayload: true }
+[2026-06-01 18:45:18.779] [debug] Received response: get-screenshot { id: 'ext-404-1780310718744', hasPayload: true }
+[2026-06-01 18:45:18.781] [debug] Received response: get-screenshot { id: 'ext-407-1780310718747', hasPayload: true }
+[2026-06-01 18:45:36.810] [debug] Sending request 'snapshot-layout' (timeout: 60000ms)
+[2026-06-01 18:45:36.811] [debug] Sending request: snapshot-layout { id: 'ext-408-1780310736811', hasPayload: true }
+[2026-06-01 18:45:36.812] [debug] Sending request 'batch-get' (timeout: 60000ms)
+[2026-06-01 18:45:36.812] [debug] Sending request: batch-get { id: 'ext-409-1780310736812', hasPayload: true }
+[2026-06-01 18:45:36.813] [debug] Received response: snapshot-layout { id: 'ext-408-1780310736811', hasPayload: true }
+[2026-06-01 18:45:36.819] [debug] Received response: batch-get { id: 'ext-409-1780310736812', hasPayload: true }
+[2026-06-01 18:46:06.692] [debug] Sending request 'batch-design' (timeout: 60000ms)
+[2026-06-01 18:46:06.693] [debug] Sending request: batch-design { id: 'ext-410-1780310766693', hasPayload: true }
+[2026-06-01 18:46:06.702] [debug] Received notification: file-changed { id: 'ext-223-1780310766702', hasPayload: false }
+[2026-06-01 18:46:06.703] [debug] Handling notification 'file-changed' with 1 handlers
+[2026-06-01 18:46:06.703] [info]  [IPC] file-changed
+[2026-06-01 18:46:06.704] [debug] Received response: batch-design { id: 'ext-410-1780310766693', hasPayload: true }
+[2026-06-01 18:46:06.705] [debug] Sending request 'save' (timeout: 60000ms)
+[2026-06-01 18:46:06.706] [debug] Sending request: save { id: 'ext-411-1780310766706', hasPayload: true }
+[2026-06-01 18:46:06.725] [debug] Received response: save { id: 'ext-411-1780310766706', hasPayload: true }
+[2026-06-01 18:46:06.731] [info]  Saved backup to  C:\Users\root\.pencil\backup\63c918176dadd5ea06a6c386f6363c14af8fcd30
+[2026-06-01 18:46:21.926] [debug] Sending request 'snapshot-layout' (timeout: 60000ms)
+[2026-06-01 18:46:21.927] [debug] Sending request: snapshot-layout { id: 'ext-412-1780310781927', hasPayload: true }
+[2026-06-01 18:46:21.928] [debug] Sending request 'snapshot-layout' (timeout: 60000ms)
+[2026-06-01 18:46:21.928] [debug] Sending request: snapshot-layout { id: 'ext-413-1780310781928', hasPayload: true }
+[2026-06-01 18:46:21.929] [debug] Sending request 'get-screenshot' (timeout: 60000ms)
+[2026-06-01 18:46:21.929] [debug] Sending request: get-screenshot { id: 'ext-414-1780310781929', hasPayload: true }
+[2026-06-01 18:46:21.929] [debug] Sending request 'get-screenshot' (timeout: 60000ms)
+[2026-06-01 18:46:21.930] [debug] Sending request: get-screenshot { id: 'ext-415-1780310781930', hasPayload: true }
+[2026-06-01 18:46:21.953] [debug] Received response: snapshot-layout { id: 'ext-412-1780310781927', hasPayload: true }
+[2026-06-01 18:46:21.956] [debug] Received response: snapshot-layout { id: 'ext-413-1780310781928', hasPayload: true }
+[2026-06-01 18:46:22.043] [debug] Received response: get-screenshot { id: 'ext-414-1780310781929', hasPayload: true }
+[2026-06-01 18:46:22.044] [debug] Received response: get-screenshot { id: 'ext-415-1780310781930', hasPayload: true }
+[2026-06-01 18:46:38.756] [debug] Sending request 'save' (timeout: 60000ms)
+[2026-06-01 18:46:38.757] [debug] Sending request: save { id: 'ext-416-1780310798757', hasPayload: true }
+[2026-06-01 18:46:38.769] [debug] Received response: save { id: 'ext-416-1780310798757', hasPayload: true }
+[2026-06-01 18:46:38.772] [debug] Sending notification 'dirty-changed'
+[2026-06-01 18:46:38.772] [debug] Sending notification: dirty-changed { id: 'ext-417-1780310798772', hasPayload: false }
+[2026-06-01 18:46:44.466] [debug] Sending request 'batch-design' (timeout: 60000ms)
+[2026-06-01 18:46:44.467] [debug] Sending request: batch-design { id: 'ext-418-1780310804467', hasPayload: true }
+[2026-06-01 18:46:44.476] [debug] Received notification: file-changed { id: 'ext-224-1780310804477', hasPayload: false }
+[2026-06-01 18:46:44.477] [debug] Handling notification 'file-changed' with 1 handlers
+[2026-06-01 18:46:44.477] [info]  [IPC] file-changed
+[2026-06-01 18:46:44.477] [debug] Sending notification 'dirty-changed'
+[2026-06-01 18:46:44.477] [debug] Sending notification: dirty-changed { id: 'ext-419-1780310804477', hasPayload: true }
+[2026-06-01 18:46:44.478] [debug] Received response: batch-design { id: 'ext-418-1780310804467', hasPayload: true }
+[2026-06-01 18:46:44.479] [debug] Sending request 'save' (timeout: 60000ms)
+[2026-06-01 18:46:44.479] [debug] Sending request: save { id: 'ext-420-1780310804479', hasPayload: true }
+[2026-06-01 18:46:44.508] [debug] Received response: save { id: 'ext-420-1780310804479', hasPayload: true }
+[2026-06-01 18:46:44.512] [info]  Saved backup to  C:\Users\root\.pencil\backup\63c918176dadd5ea06a6c386f6363c14af8fcd30
+[2026-06-01 18:47:50.131] [debug] Sending request 'save' (timeout: 60000ms)
+[2026-06-01 18:47:50.132] [debug] Sending request: save { id: 'ext-421-1780310870132', hasPayload: true }
+[2026-06-01 18:47:50.144] [debug] Received response: save { id: 'ext-421-1780310870132', hasPayload: true }
+[2026-06-01 18:47:50.146] [debug] Sending notification 'dirty-changed'
+[2026-06-01 18:47:50.147] [debug] Sending notification: dirty-changed { id: 'ext-422-1780310870146', hasPayload: false }
+[2026-06-01 18:49:49.582] [info]  MCP client disconnected: 01cfd685-df36-4fe6-a374-132b8eeec328
+[2026-06-01 18:49:50.052] [info]  New MCP client connected with ID: 6b75d384-2e55-41c1-8c54-914cc8e94021
+[2026-06-01 18:49:50.062] [info]  [ipc-device-manager] event: agent-connected 
+[2026-06-01 18:49:50.062] [debug] Sending notification 'connected-agents-changed'
+[2026-06-01 18:49:50.063] [debug] Sending notification: connected-agents-changed { id: 'ext-423-1780310990062', hasPayload: true }
+[2026-06-01 18:51:20.421] [info]  Checking for update
+[2026-06-01 18:51:20.423] [info]  [updater] Checking for update…
+[2026-06-01 18:51:22.896] [info]  Update for version 1.1.60 is not available (latest version: 1.1.60, downgrade is disallowed).
+[2026-06-01 18:51:22.897] [info]  [updater] No update available (current: 1.1.60)
+[2026-06-01 18:52:14.990] [info]  New MCP client connected with ID: fb5261bd-2806-43b9-bdb9-9b597f4f00d3
+[2026-06-01 18:52:14.996] [info]  [ipc-device-manager] event: agent-connected 
+[2026-06-01 18:52:14.997] [debug] Sending notification 'connected-agents-changed'
+[2026-06-01 18:52:14.997] [debug] Sending notification: connected-agents-changed { id: 'ext-424-1780311134997', hasPayload: true }
+[2026-06-01 18:52:38.570] [debug] Sending request 'get-editor-state' (timeout: 60000ms)
+[2026-06-01 18:52:38.571] [debug] Sending request: get-editor-state { id: 'ext-425-1780311158571', hasPayload: true }
+[2026-06-01 18:52:38.574] [debug] Received response: get-editor-state { id: 'ext-425-1780311158571', hasPayload: true }
+[2026-06-01 18:52:58.524] [debug] Sending request 'batch-get' (timeout: 60000ms)
+[2026-06-01 18:52:58.525] [debug] Sending request: batch-get { id: 'ext-426-1780311178525', hasPayload: true }
+[2026-06-01 18:52:58.532] [debug] Received response: batch-get { id: 'ext-426-1780311178525', hasPayload: true }
+[2026-06-01 18:53:05.498] [debug] Sending request 'batch-get' (timeout: 60000ms)
+[2026-06-01 18:53:05.499] [debug] Sending request: batch-get { id: 'ext-427-1780311185499', hasPayload: true }
+[2026-06-01 18:53:05.499] [debug] Sending request 'batch-get' (timeout: 60000ms)
+[2026-06-01 18:53:05.500] [debug] Sending request: batch-get { id: 'ext-428-1780311185500', hasPayload: true }
+[2026-06-01 18:53:05.502] [debug] Received response: batch-get { id: 'ext-427-1780311185499', hasPayload: true }
+[2026-06-01 18:53:05.521] [debug] Received response: batch-get { id: 'ext-428-1780311185500', hasPayload: true }
+[2026-06-01 18:55:03.697] [info]  New MCP client connected with ID: 722e5667-573c-450a-84ba-4b9cfc0d4094
+[2026-06-01 18:55:03.704] [info]  [ipc-device-manager] event: agent-connected 
+[2026-06-01 18:55:03.705] [debug] Sending notification 'connected-agents-changed'
+[2026-06-01 18:55:03.705] [debug] Sending notification: connected-agents-changed { id: 'ext-429-1780311303705', hasPayload: true }
+[2026-06-01 18:55:03.706] [info]  MCP client disconnected: 722e5667-573c-450a-84ba-4b9cfc0d4094
+[2026-06-01 18:55:07.982] [info]  MCP client disconnected: 6b75d384-2e55-41c1-8c54-914cc8e94021
+[2026-06-01 18:55:07.983] [info]  MCP client disconnected: fb5261bd-2806-43b9-bdb9-9b597f4f00d3
+[2026-06-01 18:55:13.223] [info]  New MCP client connected with ID: bedad140-42b3-4071-9ca5-e92b4ae43c58
+[2026-06-01 18:55:13.229] [info]  [ipc-device-manager] event: agent-connected 
+[2026-06-01 18:55:13.230] [debug] Sending notification 'connected-agents-changed'
+[2026-06-01 18:55:13.230] [debug] Sending notification: connected-agents-changed { id: 'ext-430-1780311313230', hasPayload: true }
+[2026-06-01 18:55:18.153] [info]  New MCP client connected with ID: 374f89c2-0a6d-4653-a30a-ebaa38381930
+[2026-06-01 18:55:18.159] [info]  [ipc-device-manager] event: agent-connected 
+[2026-06-01 18:55:18.160] [debug] Sending notification 'connected-agents-changed'
+[2026-06-01 18:55:18.161] [debug] Sending notification: connected-agents-changed { id: 'ext-431-1780311318160', hasPayload: true }
+[2026-06-01 19:05:23.874] [info]  MCP client disconnected: 374f89c2-0a6d-4653-a30a-ebaa38381930
+[2026-06-01 19:05:23.875] [info]  MCP client disconnected: bedad140-42b3-4071-9ca5-e92b4ae43c58
+[2026-06-01 19:05:24.335] [info]  New MCP client connected with ID: 52198ef6-6309-464b-8278-5732f1f7f81d
+[2026-06-01 19:05:24.341] [info]  [ipc-device-manager] event: agent-connected 
+[2026-06-01 19:05:24.342] [debug] Sending notification 'connected-agents-changed'
+[2026-06-01 19:05:24.343] [debug] Sending notification: connected-agents-changed { id: 'ext-432-1780311924342', hasPayload: true }
+[2026-06-01 19:05:49.709] [info]  New MCP client connected with ID: 52c594c2-e41d-41db-8ad4-e4d9ea27f47c
+[2026-06-01 19:05:49.716] [info]  [ipc-device-manager] event: agent-connected 
+[2026-06-01 19:05:49.717] [debug] Sending notification 'connected-agents-changed'
+[2026-06-01 19:05:49.717] [debug] Sending notification: connected-agents-changed { id: 'ext-433-1780311949717', hasPayload: true }
+[2026-06-01 19:06:22.368] [info]  MCP client disconnected: 52c594c2-e41d-41db-8ad4-e4d9ea27f47c
+[2026-06-01 19:06:36.542] [info]  New MCP client connected with ID: 9ef45c86-32cb-4e3d-99be-5472cc577424
+[2026-06-01 19:06:36.548] [info]  [ipc-device-manager] event: agent-connected 
+[2026-06-01 19:06:36.549] [debug] Sending notification 'connected-agents-changed'
+[2026-06-01 19:06:36.549] [debug] Sending notification: connected-agents-changed { id: 'ext-434-1780311996549', hasPayload: true }
+[2026-06-01 19:21:20.425] [info]  Checking for update
+[2026-06-01 19:21:20.427] [info]  [updater] Checking for update…
+[2026-06-01 19:21:39.812] [error] Error: Error: net::ERR_CONNECTION_ABORTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:134277)
+    at SimpleURLLoaderWrapper.emit (node:events:509:28)
+[2026-06-01 19:21:39.812] [error] [updater] Auto-updater error: net::ERR_CONNECTION_ABORTED
+[2026-06-01 19:51:20.438] [info]  Checking for update
+[2026-06-01 19:51:20.439] [info]  [updater] Checking for update…
+[2026-06-01 19:51:43.244] [info]  Update for version 1.1.60 is not available (latest version: 1.1.60, downgrade is disallowed).
+[2026-06-01 19:51:43.244] [info]  [updater] No update available (current: 1.1.60)
+[2026-06-01 19:52:47.415] [info]  MCP client disconnected: 9ef45c86-32cb-4e3d-99be-5472cc577424
+[2026-06-01 19:52:47.419] [info]  MCP client disconnected: 52198ef6-6309-464b-8278-5732f1f7f81d
+[2026-06-01 19:52:47.889] [info]  New MCP client connected with ID: 3df724c4-a3a4-4462-b39f-4fe98e15e266
+[2026-06-01 19:52:47.894] [info]  [ipc-device-manager] event: agent-connected 
+[2026-06-01 19:52:47.894] [debug] Sending notification 'connected-agents-changed'
+[2026-06-01 19:52:47.895] [debug] Sending notification: connected-agents-changed { id: 'ext-435-1780314767894', hasPayload: true }
+[2026-06-01 19:54:30.746] [info]  New MCP client connected with ID: acf5d953-dcaa-4f18-9dbc-937a33ee0010
+[2026-06-01 19:54:30.755] [info]  [ipc-device-manager] event: agent-connected 
+[2026-06-01 19:54:30.755] [debug] Sending notification 'connected-agents-changed'
+[2026-06-01 19:54:30.756] [debug] Sending notification: connected-agents-changed { id: 'ext-436-1780314870755', hasPayload: true }
+[2026-06-01 19:55:01.240] [info]  removeResource: D:\workspace\mywork\ideaProjects\boot_ai_alibaba\docs\数字人交互设计.pen
+[2026-06-01 19:55:01.241] [info]  [app] window-all-closed
+[2026-06-01 19:55:01.242] [info]  [app] before-quit
+[2026-06-01 19:55:01.242] [info]  [app] will-quit
+[2026-06-01 19:55:01.242] [info]  [app] Running cleanup…
+[2026-06-01 19:55:01.243] [info]  stopAllAgents()
+[2026-06-01 19:55:01.244] [info]  Transport server stopping
+[2026-06-01 19:55:01.245] [info]  Transport server stopped
+[2026-06-01 19:55:01.246] [info]  [app] Cleanup done
+[2026-06-01 19:55:01.247] [info]  [updater] quitAndInstallIfUpdateDownloaded: updateDownloaded=false, installOnAppQuit=false, forceQuitAndInstall=undefined, isQuitting=true
+[2026-06-01 19:55:01.251] [info]  [updater] No update to install, already quitting
+[2026-06-01 19:55:01.433] [info]  [app] quit (exitCode=0)
+[2026-06-03 00:38:43.005] [info]  [app] ready - IS_DEV: false, NODE_ENV: undefined
+[2026-06-03 00:38:44.117] [info]  Checking for update
+[2026-06-03 00:38:44.117] [info]  [updater] Checking for update…
+[2026-06-03 00:38:44.129] [info]  Transport server listening on pencil-desktop
+[2026-06-03 00:38:44.130] [info]  Transport server ready on pencil-desktop
+[2026-06-03 00:38:44.131] [info]  Removed MCP allow rules from claudeCodeCLI
+[2026-06-03 00:38:44.132] [info]  Uninstalled MCP server for claudeCodeCLI
+[2026-06-03 00:38:44.145] [info]  Uninstalled MCP server for codexCLI
+[2026-06-03 00:38:44.150] [info]  Uninstalled MCP server for geminiCLI
+[2026-06-03 00:38:44.156] [info]  Uninstalled MCP server for openCodeCLI
+[2026-06-03 00:38:44.162] [info]  Uninstalled MCP server for kiroCLI
+[2026-06-03 00:38:44.168] [info]  Uninstalled MCP server for claudeDesktop
+[2026-06-03 00:38:44.168] [info]  Uninstalled MCP server for antigravity
+[2026-06-03 00:38:44.170] [info]  Successfully set up MCP server for claudeCodeCLI
+[2026-06-03 00:38:44.171] [info]  Successfully set up MCP server for codexCLI
+[2026-06-03 00:38:44.172] [info]  Successfully set up MCP server for geminiCLI
+[2026-06-03 00:38:44.172] [info]  Successfully set up MCP server for openCodeCLI
+[2026-06-03 00:38:44.173] [info]  Successfully set up MCP server for kiroCLI
+[2026-06-03 00:38:44.174] [info]  Successfully set up MCP server for claudeDesktop
+[2026-06-03 00:38:46.207] [info]  Update for version 1.1.60 is not available (latest version: 1.1.60, downgrade is disallowed).
+[2026-06-03 00:38:46.208] [info]  [updater] No update available (current: 1.1.60)
+[2026-06-03 00:38:46.211] [info]  loadFile D:\workspace\mywork\ideaProjects\boot_ai_alibaba\docs\数字人交互设计.pen zoomToFit: true
+[2026-06-03 00:38:46.314] [info]  Initializing IPC server
+[2026-06-03 00:38:46.315] [debug] Registering notification handler for 'add-to-chat'
+[2026-06-03 00:38:46.316] [debug] Registering handler for 'get-fullscreen'
+[2026-06-03 00:38:46.316] [debug] Registering handler for 'get-active-integrations'
+[2026-06-03 00:38:46.317] [debug] Registering handler for 'get-mcp-config'
+[2026-06-03 00:38:46.317] [debug] Registering notification handler for 'change-workspace-folder'
+[2026-06-03 00:38:46.318] [debug] Registering notification handler for 'request-save'
+[2026-06-03 00:38:46.318] [debug] Registering notification handler for 'toggle-theme'
+[2026-06-03 00:38:46.319] [debug] Registering notification handler for 'set-native-theme'
+[2026-06-03 00:38:46.319] [debug] Registering notification handler for 'set-vibrancy'
+[2026-06-03 00:38:46.320] [debug] Registering notification handler for 'desktop-open-terminal'
+[2026-06-03 00:38:46.320] [debug] Registering handler for 'agent-set-api-key'
+[2026-06-03 00:38:46.321] [debug] Registering notification handler for 'toggle-mcp-integration'
+[2026-06-03 00:38:46.321] [debug] Registering notification handler for 'show-about'
+[2026-06-03 00:38:46.322] [debug] Registering notification handler for 'initialized'
+[2026-06-03 00:38:46.322] [debug] Registering notification handler for 'add-extension-to-ide'
+[2026-06-03 00:38:46.323] [info]  addResource: D:\workspace\mywork\ideaProjects\boot_ai_alibaba\docs\数字人交互设计.pen
+[2026-06-03 00:38:46.324] [debug] Registering handler for 'get-session'
+[2026-06-03 00:38:46.325] [debug] Registering notification handler for 'set-session'
+[2026-06-03 00:38:46.325] [debug] Registering handler for 'get-last-online-at'
+[2026-06-03 00:38:46.325] [debug] Registering notification handler for 'set-last-online-at'
+[2026-06-03 00:38:46.326] [debug] Registering handler for 'get-device-id'
+[2026-06-03 00:38:46.326] [debug] Registering handler for 'read-file'
+[2026-06-03 00:38:46.326] [debug] Registering handler for 'stat-file'
+[2026-06-03 00:38:46.326] [debug] Registering handler for 'watch-file'
+[2026-06-03 00:38:46.327] [debug] Registering handler for 'unwatch-file'
+[2026-06-03 00:38:46.327] [debug] Registering handler for 'save-generated-image'
+[2026-06-03 00:38:46.327] [debug] Registering handler for 'save-temp-file'
+[2026-06-03 00:38:46.328] [debug] Registering notification handler for 'cleanup-temp-files'
+[2026-06-03 00:38:46.328] [debug] Registering notification handler for 'initialized'
+[2026-06-03 00:38:46.329] [debug] Registering notification handler for 'file-changed'
+[2026-06-03 00:38:46.329] [debug] Registering handler for 'import-file'
+[2026-06-03 00:38:46.329] [debug] Registering handler for 'import-files'
+[2026-06-03 00:38:46.330] [debug] Registering handler for 'import-uri'
+[2026-06-03 00:38:46.330] [debug] Registering notification handler for 'send-prompt'
+[2026-06-03 00:38:46.331] [debug] Registering handler for 'agent-stop'
+[2026-06-03 00:38:46.331] [debug] Registering handler for 'agent-probe'
+[2026-06-03 00:38:46.332] [debug] Registering notification handler for 'open-document'
+[2026-06-03 00:38:46.332] [debug] Registering notification handler for 'submit-prompt'
+[2026-06-03 00:38:46.332] [debug] Registering notification handler for 'toggle-design-mode'
+[2026-06-03 00:38:46.333] [debug] Registering notification handler for 'set-left-sidebar-visible'
+[2026-06-03 00:38:46.333] [debug] Registering notification handler for 'sign-out'
+[2026-06-03 00:38:46.334] [debug] Registering notification handler for 'open-external-url'
+[2026-06-03 00:38:46.334] [debug] Registering notification handler for 'load-file'
+[2026-06-03 00:38:46.335] [debug] Registering handler for 'find-libraries'
+[2026-06-03 00:38:46.335] [debug] Registering notification handler for 'turn-into-library'
+[2026-06-03 00:38:46.336] [debug] Registering handler for 'browse-libraries'
+[2026-06-03 00:38:46.336] [debug] Registering handler for 'pick-snapshot-extract-directory'
+[2026-06-03 00:38:46.336] [debug] Registering handler for 'write-snapshot-import'
+[2026-06-03 00:38:46.337] [debug] Registering handler for 'chat-sessions-load'
+[2026-06-03 00:38:46.338] [debug] Registering handler for 'chat-session-save'
+[2026-06-03 00:38:46.338] [debug] Registering handler for 'chat-session-delete'
+[2026-06-03 00:38:46.339] [debug] Registering notification handler for 'share-upload-changed'
+[2026-06-03 00:38:46.348] [info]  [DesktopResourceDevice] loadURL()
+[2026-06-03 00:38:47.666] [debug] Sending notification 'workspace-folder-changed'
+[2026-06-03 00:38:47.667] [debug] Sending notification: workspace-folder-changed { id: 'ext-1-1780418327666', hasPayload: true }
+[2026-06-03 00:38:47.668] [debug] Registering notification handler for 'desktop-update-install'
+[2026-06-03 00:38:47.669] [debug] Registering notification handler for 'set-install-on-app-quit'
+[2026-06-03 00:38:47.715] [debug] Received notification: share-upload-changed { id: 'ext-1-1780418327715', hasPayload: true }
+[2026-06-03 00:38:47.716] [debug] Handling notification 'share-upload-changed' with 1 handlers
+[2026-06-03 00:38:47.718] [debug] Received request: get-fullscreen { id: 'ext-2-1780418327716', hasPayload: false }
+[2026-06-03 00:38:47.719] [debug] Sending response: get-fullscreen { id: 'ext-2-1780418327716', hasPayload: false }
+[2026-06-03 00:38:47.720] [debug] Received request: get-last-online-at { id: 'ext-3-1780418327717', hasPayload: false }
+[2026-06-03 00:38:47.729] [debug] Sending response: get-last-online-at { id: 'ext-3-1780418327717', hasPayload: true }
+[2026-06-03 00:38:47.730] [debug] Received notification: set-native-theme { id: 'ext-4-1780418327718', hasPayload: true }
+[2026-06-03 00:38:47.731] [debug] Handling notification 'set-native-theme' with 1 handlers
+[2026-06-03 00:38:47.740] [debug] Received request: get-active-integrations { id: 'ext-5-1780418327720', hasPayload: false }
+[2026-06-03 00:38:47.741] [debug] Sending response: get-active-integrations { id: 'ext-5-1780418327720', hasPayload: true }
+[2026-06-03 00:38:47.743] [debug] Received request: get-mcp-config { id: 'ext-6-1780418327720', hasPayload: false }
+[2026-06-03 00:38:47.744] [debug] Sending response: get-mcp-config { id: 'ext-6-1780418327720', hasPayload: true }
+[2026-06-03 00:38:48.175] [debug] Received request: chat-sessions-load { id: 'ext-7-1780418328175', hasPayload: false }
+[2026-06-03 00:38:48.176] [info]  [IPC] chat-sessions-load
+[2026-06-03 00:38:48.190] [debug] Sending response: chat-sessions-load { id: 'ext-7-1780418328175', hasPayload: true }
+[2026-06-03 00:38:48.230] [debug] Received notification: initialized { id: 'ext-8-1780418328230', hasPayload: false }
+[2026-06-03 00:38:48.231] [debug] Handling notification 'initialized' with 2 handlers
+[2026-06-03 00:38:48.232] [debug] AgentConfigManager.get()
+[2026-06-03 00:38:48.234] [info]  [AuthStore.getApiKey] provider: anthropic
+[2026-06-03 00:38:48.235] [info]  [AuthStore.getApiKey] provider: openai-codex
+[2026-06-03 00:38:48.236] [info]  [AuthStore.getApiKey] provider: google
+[2026-06-03 00:38:48.237] [debug] AgentConfigManager.notify()
+[2026-06-03 00:38:48.237] [debug] Sending notification 'agent-config-changed'
+[2026-06-03 00:38:48.238] [debug] Sending notification: agent-config-changed { id: 'ext-2-1780418328237', hasPayload: true }
+[2026-06-03 00:38:48.239] [info]  [IPC] initialized: D:\workspace\mywork\ideaProjects\boot_ai_alibaba\docs\数字人交互设计.pen
+[2026-06-03 00:38:48.240] [debug] Sending notification 'file-update'
+[2026-06-03 00:38:48.240] [debug] Sending notification: file-update { id: 'ext-3-1780418328240', hasPayload: true }
+[2026-06-03 00:38:48.416] [debug] Received notification: set-native-theme { id: 'ext-9-1780418328415', hasPayload: true }
+[2026-06-03 00:38:48.417] [debug] Handling notification 'set-native-theme' with 1 handlers
+[2026-06-03 00:38:48.432] [debug] Received request: get-session { id: 'ext-10-1780418328417', hasPayload: false }
+[2026-06-03 00:38:48.432] [info]  [IPC] get-session
+[2026-06-03 00:38:48.433] [debug] Sending response: get-session { id: 'ext-10-1780418328417', hasPayload: true }
+[2026-06-03 00:38:48.453] [debug] Received notification: set-last-online-at { id: 'ext-11-1780418328452', hasPayload: true }
+[2026-06-03 00:38:48.454] [debug] Handling notification 'set-last-online-at' with 1 handlers
+[2026-06-03 00:38:48.549] [debug] Received request: get-device-id { id: 'ext-12-1780418328548', hasPayload: false }
+[2026-06-03 00:38:48.550] [info]  [IPC] get-device-id
+[2026-06-03 00:38:48.551] [debug] Sending response: get-device-id { id: 'ext-12-1780418328548', hasPayload: true }
+[2026-06-03 00:38:49.217] [debug] Received request: read-file { id: 'ext-13-1780418329216', hasPayload: true }
+[2026-06-03 00:38:49.217] [info]  [IPC] read-file file:///D:/workspace/mywork/ideaProjects/boot_ai_alibaba/docs/image.png
+[2026-06-03 00:38:49.221] [debug] Sending response: read-file { id: 'ext-13-1780418329216', hasPayload: true }
+[2026-06-03 00:38:49.691] [debug] Received notification: set-last-online-at { id: 'ext-14-1780418329691', hasPayload: true }
+[2026-06-03 00:38:49.692] [debug] Handling notification 'set-last-online-at' with 1 handlers
+[2026-06-03 01:08:44.132] [info]  Checking for update
+[2026-06-03 01:08:44.133] [info]  [updater] Checking for update…
+[2026-06-03 01:08:45.744] [info]  Update for version 1.1.60 is not available (latest version: 1.1.60, downgrade is disallowed).
+[2026-06-03 01:08:45.745] [info]  [updater] No update available (current: 1.1.60)
+[2026-06-03 01:16:19.454] [debug] Received request: agent-probe { id: 'ext-15-1780420579454', hasPayload: true }
+[2026-06-03 01:16:19.455] [info]  [IPC] agent-probe { agentType: 'claude' }
+[2026-06-03 01:16:19.457] [info]  [AuthStore.getApiKey] provider: anthropic
+[2026-06-03 01:16:20.078] [debug] Received request: agent-probe { id: 'ext-16-1780420579454', hasPayload: true }
+[2026-06-03 01:16:20.078] [info]  [IPC] agent-probe { agentType: 'codex' }
+[2026-06-03 01:16:20.079] [info]  [AuthStore.getApiKey] provider: anthropic
+[2026-06-03 01:16:25.359] [debug] Sending response: agent-probe { id: 'ext-15-1780420579454', hasPayload: true }
+[2026-06-03 01:17:18.931] [info]  New MCP client connected with ID: d1af9c09-e274-4bbd-966c-4bcc9645b71c
+[2026-06-03 01:17:18.941] [info]  [ipc-device-manager] event: agent-connected 
+[2026-06-03 01:17:18.941] [debug] Sending notification 'connected-agents-changed'
+[2026-06-03 01:17:18.942] [debug] Sending notification: connected-agents-changed { id: 'ext-4-1780420638941', hasPayload: true }
+[2026-06-03 01:17:26.789] [info]  New MCP client connected with ID: a0723724-2fcf-4cf0-b22b-f5e5bfaf2185
+[2026-06-03 01:17:26.796] [info]  [ipc-device-manager] event: agent-connected 
+[2026-06-03 01:17:26.797] [debug] Sending notification 'connected-agents-changed'
+[2026-06-03 01:17:26.798] [debug] Sending notification: connected-agents-changed { id: 'ext-5-1780420646797', hasPayload: true }
+[2026-06-03 01:17:38.862] [debug] Sending request 'get-editor-state' (timeout: 60000ms)
+[2026-06-03 01:17:38.863] [debug] Sending request: get-editor-state { id: 'ext-6-1780420658863', hasPayload: true }
+[2026-06-03 01:17:38.869] [debug] Received response: get-editor-state { id: 'ext-6-1780420658863', hasPayload: true }
+[2026-06-03 01:26:41.123] [warn]  Codex probe failed: The operation was aborted
+[2026-06-03 01:26:41.124] [debug] Sending response: agent-probe { id: 'ext-16-1780420579454', hasPayload: true }
+[2026-06-03 01:29:54.828] [debug] Sending request 'batch-get' (timeout: 60000ms)
+[2026-06-03 01:29:54.828] [debug] Sending request: batch-get { id: 'ext-7-1780421394828', hasPayload: true }
+[2026-06-03 01:29:54.829] [debug] Sending request 'get-screenshot' (timeout: 60000ms)
+[2026-06-03 01:29:54.829] [debug] Sending request: get-screenshot { id: 'ext-8-1780421394829', hasPayload: true }
+[2026-06-03 01:29:54.834] [debug] Received response: batch-get { id: 'ext-7-1780421394828', hasPayload: true }
+[2026-06-03 01:29:54.930] [debug] Received response: get-screenshot { id: 'ext-8-1780421394829', hasPayload: true }
+[2026-06-03 01:30:23.527] [debug] Sending request 'batch-get' (timeout: 60000ms)
+[2026-06-03 01:30:23.527] [debug] Sending request: batch-get { id: 'ext-9-1780421423527', hasPayload: true }
+[2026-06-03 01:30:23.532] [debug] Received response: batch-get { id: 'ext-9-1780421423527', hasPayload: true }
+[2026-06-03 01:38:44.132] [info]  Checking for update
+[2026-06-03 01:38:44.133] [info]  [updater] Checking for update…
+[2026-06-03 01:38:45.477] [info]  Update for version 1.1.60 is not available (latest version: 1.1.60, downgrade is disallowed).
+[2026-06-03 01:38:45.477] [info]  [updater] No update available (current: 1.1.60)
+[2026-06-03 01:42:52.373] [info]  MCP client disconnected: d1af9c09-e274-4bbd-966c-4bcc9645b71c
+[2026-06-03 01:42:52.373] [info]  MCP client disconnected: a0723724-2fcf-4cf0-b22b-f5e5bfaf2185
+[2026-06-03 02:08:44.138] [info]  Checking for update
+[2026-06-03 02:08:44.138] [info]  [updater] Checking for update…
+[2026-06-03 02:09:03.512] [error] Error: Error: net::ERR_CONNECTION_ABORTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:134277)
+    at SimpleURLLoaderWrapper.emit (node:events:509:28)
+[2026-06-03 02:09:03.513] [error] [updater] Auto-updater error: net::ERR_CONNECTION_ABORTED
+[2026-06-03 02:38:44.137] [info]  Checking for update
+[2026-06-03 02:38:44.138] [info]  [updater] Checking for update…
+[2026-06-03 02:38:52.477] [info]  Update for version 1.1.60 is not available (latest version: 1.1.60, downgrade is disallowed).
+[2026-06-03 02:38:52.478] [info]  [updater] No update available (current: 1.1.60)
+[2026-06-03 03:08:44.153] [info]  Checking for update
+[2026-06-03 03:08:44.153] [info]  [updater] Checking for update…
+[2026-06-03 03:09:05.235] [error] Error: Error: net::ERR_CONNECTION_TIMED_OUT
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:134277)
+    at SimpleURLLoaderWrapper.emit (node:events:509:28)
+[2026-06-03 03:09:05.236] [error] [updater] Auto-updater error: net::ERR_CONNECTION_TIMED_OUT
+[2026-06-03 03:09:59.480] [info]  removeResource: D:\workspace\mywork\ideaProjects\boot_ai_alibaba\docs\数字人交互设计.pen
+[2026-06-03 03:09:59.481] [info]  [app] window-all-closed
+[2026-06-03 03:09:59.482] [info]  [app] before-quit
+[2026-06-03 03:09:59.482] [info]  [app] will-quit
+[2026-06-03 03:09:59.483] [info]  [app] Running cleanup…
+[2026-06-03 03:09:59.483] [info]  stopAllAgents()
+[2026-06-03 03:09:59.486] [info]  Transport server stopping
+[2026-06-03 03:09:59.487] [info]  Transport server stopped
+[2026-06-03 03:09:59.488] [info]  [app] Cleanup done
+[2026-06-03 03:09:59.496] [info]  [updater] quitAndInstallIfUpdateDownloaded: updateDownloaded=false, installOnAppQuit=false, forceQuitAndInstall=undefined, isQuitting=true
+[2026-06-03 03:09:59.500] [info]  [updater] No update to install, already quitting
+[2026-06-03 03:10:00.064] [info]  [app] quit (exitCode=0)
+[2026-06-05 17:00:52.603] [info]  [app] ready - IS_DEV: false, NODE_ENV: undefined
+[2026-06-05 17:00:53.727] [info]  Checking for update
+[2026-06-05 17:00:53.727] [info]  [updater] Checking for update…
+[2026-06-05 17:00:53.738] [info]  Transport server listening on pencil-desktop
+[2026-06-05 17:00:53.739] [info]  Transport server ready on pencil-desktop
+[2026-06-05 17:00:53.741] [info]  Removed MCP allow rules from claudeCodeCLI
+[2026-06-05 17:00:53.741] [info]  Uninstalled MCP server for claudeCodeCLI
+[2026-06-05 17:00:55.034] [info]  Uninstalled MCP server for codexCLI
+[2026-06-05 17:00:55.040] [info]  Uninstalled MCP server for geminiCLI
+[2026-06-05 17:00:55.042] [info]  Uninstalled MCP server for openCodeCLI
+[2026-06-05 17:00:55.044] [info]  Uninstalled MCP server for kiroCLI
+[2026-06-05 17:00:55.052] [info]  Uninstalled MCP server for claudeDesktop
+[2026-06-05 17:00:55.053] [info]  Uninstalled MCP server for antigravity
+[2026-06-05 17:00:55.055] [info]  Successfully set up MCP server for claudeCodeCLI
+[2026-06-05 17:00:55.056] [info]  Successfully set up MCP server for codexCLI
+[2026-06-05 17:00:55.057] [info]  Successfully set up MCP server for geminiCLI
+[2026-06-05 17:00:55.057] [info]  Successfully set up MCP server for openCodeCLI
+[2026-06-05 17:00:55.058] [info]  Successfully set up MCP server for kiroCLI
+[2026-06-05 17:00:55.059] [info]  Successfully set up MCP server for claudeDesktop
+[2026-06-05 17:01:05.351] [info]  [app] second-instance D:\mysoft\pencil\Pencil.exe --allow-file-access-from-files --enable-features=DocumentPolicyIncludeJSCallStacksInCrashReports --secure-schemes=sentry-ipc --bypasscsp-schemes=sentry-ipc --cors-schemes=sentry-ipc --fetch-schemes=sentry-ipc --source-shortcut=C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Pencil.lnk
+[2026-06-05 17:01:05.506] [info]  [app] ready - IS_DEV: false, NODE_ENV: undefined
+[2026-06-05 17:01:06.018] [info]  Checking for update
+[2026-06-05 17:01:06.018] [info]  [updater] Checking for update…
+[2026-06-05 17:01:06.039] [error] Transport server error: Error: listen EADDRINUSE: address already in use \\.\pipe\pencil-desktop
+    at Server.setupListenHandle [as _listen2] (node:net:1986:21)
+    at listenInCluster (node:net:2065:12)
+    at Server.listen (node:net:2187:5)
+    at Server.startServer (D:\mysoft\pencil\resources\app.asar\node_modules\@node-ipc\node-ipc\cjs\node-ipc.cjs:1042:21)
+    at FSReqCallback.oncomplete (node:fs:185:23)
+[2026-06-05 17:01:06.656] [info]  [app] quit (exitCode=0)
+[2026-06-05 17:01:35.713] [error] Error: Error: Cannot parse releases feed: Error: Unable to find latest version on GitHub (https://github.com/highagency/pencil-desktop-releases/releases/latest), please ensure a production release exists: Error: net::ERR_CONNECTION_TIMED_OUT
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:134277)
+    at SimpleURLLoaderWrapper.emit (node:events:509:28)
+    at newError (D:\mysoft\pencil\resources\app.asar\node_modules\builder-util-runtime\out\error.js:5:19)
+    at GitHubProvider.getLatestTagName (D:\mysoft\pencil\resources\app.asar\node_modules\electron-updater\out\providers\GitHubProvider.js:162:55)
+    at async GitHubProvider.getLatestVersion (D:\mysoft\pencil\resources\app.asar\node_modules\electron-updater\out\providers\GitHubProvider.js:86:23)
+    at async NsisUpdater.getUpdateInfoAndProvider (D:\mysoft\pencil\resources\app.asar\node_modules\electron-updater\out\AppUpdater.js:389:19)
+    at async NsisUpdater.doCheckForUpdates (D:\mysoft\pencil\resources\app.asar\node_modules\electron-updater\out\AppUpdater.js:402:24)
+    at async checkForUpdates (D:\mysoft\pencil\resources\app.asar\out\updater.js:102:33)
+    at async setupUpdater (D:\mysoft\pencil\resources\app.asar\out\updater.js:91:9)
+    at async PencilApp.initialize (D:\mysoft\pencil\resources\app.asar\out\app.js:63:13)
+    at async D:\mysoft\pencil\resources\app.asar\out\main.js:142:5,
+XML:
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:https://github.com/highagency/pencil-desktop-releases/releases</id>
+  <link type="text/html" rel="alternate" href="https://github.com/highagency/pencil-desktop-releases/releases"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/highagency/pencil-desktop-releases/releases.atom"/>
+  <title>Release notes from pencil-desktop-releases</title>
+  <updated>2026-01-01T21:20:02Z</updated>
+  <entry>
+    <id>tag:github.com,2008:Repository/1125737348/v1.1.61</id>
+    <updated>2026-06-03T11:08:34Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/highagency/pencil-desktop-releases/releases/tag/v1.1.61"/>
+    <title>1.1.61</title>
+    <content>No content.</content>
+    <author>
+      <name>gerhardberger</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/1059699?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/1125737348/v1.1.60</id>
+    <updated>2026-05-30T07:00:31Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/highagency/pencil-desktop-releases/releases/tag/v1.1.60"/>
+    <title>1.1.60</title>
+    <content>No content.</content>
+    <author>
+      <name>gerhardberger</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/1059699?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/1125737348/v1.1.59</id>
+    <updated>2026-05-27T06:28:50Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/highagency/pencil-desktop-releases/releases/tag/v1.1.59"/>
+    <title>1.1.59</title>
+    <content>No content.</content>
+    <author>
+      <name>gerhardberger</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/1059699?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/1125737348/v1.1.58</id>
+    <updated>2026-05-26T18:23:47Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/highagency/pencil-desktop-releases/releases/tag/v1.1.58"/>
+    <title>1.1.58</title>
+    <content>No content.</content>
+    <author>
+      <name>gerhardberger</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/1059699?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/1125737348/v1.1.57</id>
+    <updated>2026-05-18T18:32:34Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/highagency/pencil-desktop-releases/releases/tag/v1.1.57"/>
+    <title>1.1.57</title>
+    <content>No content.</content>
+    <author>
+      <name>gerhardberger</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/1059699?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/1125737348/v1.1.56</id>
+    <updated>2026-05-07T09:49:00Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/highagency/pencil-desktop-releases/releases/tag/v1.1.56"/>
+    <title>1.1.56</title>
+    <content>No content.</content>
+    <author>
+      <name>gerhardberger</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/1059699?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/1125737348/v1.1.55</id>
+    <updated>2026-04-30T20:01:20Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/highagency/pencil-desktop-releases/releases/tag/v1.1.55"/>
+    <title>1.1.55</title>
+    <content>No content.</content>
+    <author>
+      <name>gerhardberger</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/1059699?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/1125737348/v1.1.54</id>
+    <updated>2026-01-01T21:20:02Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/highagency/pencil-desktop-releases/releases/tag/v1.1.54"/>
+    <title>v1.1.54</title>
+    <content type="html">&lt;p&gt;first commit&lt;/p&gt;</content>
+    <author>
+      <name>gerhardberger</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/1059699?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/1125737348/v1.1.53</id>
+    <updated>2026-01-01T21:20:02Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/highagency/pencil-desktop-releases/releases/tag/v1.1.53"/>
+    <title>v1.1.53</title>
+    <content type="html">&lt;p&gt;first commit&lt;/p&gt;</content>
+    <author>
+      <name>gerhardberger</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/1059699?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/1125737348/v1.1.52</id>
+    <updated>2026-01-01T21:20:02Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/highagency/pencil-desktop-releases/releases/tag/v1.1.52"/>
+    <title>v1.1.52</title>
+    <content type="html">&lt;p&gt;first commit&lt;/p&gt;</content>
+    <author>
+      <name>gerhardberger</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/1059699?s=60&amp;v=4"/>
+  </entry>
+</feed>
+
+    at newError (D:\mysoft\pencil\resources\app.asar\node_modules\builder-util-runtime\out\error.js:5:19)
+    at GitHubProvider.getLatestVersion (D:\mysoft\pencil\resources\app.asar\node_modules\electron-updater\out\providers\GitHubProvider.js:97:55)
+    at async NsisUpdater.getUpdateInfoAndProvider (D:\mysoft\pencil\resources\app.asar\node_modules\electron-updater\out\AppUpdater.js:389:19)
+    at async NsisUpdater.doCheckForUpdates (D:\mysoft\pencil\resources\app.asar\node_modules\electron-updater\out\AppUpdater.js:402:24)
+    at async checkForUpdates (D:\mysoft\pencil\resources\app.asar\out\updater.js:102:33)
+    at async setupUpdater (D:\mysoft\pencil\resources\app.asar\out\updater.js:91:9)
+    at async PencilApp.initialize (D:\mysoft\pencil\resources\app.asar\out\app.js:63:13)
+    at async D:\mysoft\pencil\resources\app.asar\out\main.js:142:5
+[2026-06-05 17:01:35.714] [error] [updater] Auto-updater error: Cannot parse releases feed: Error: Unable to find latest version on GitHub (https://github.com/highagency/pencil-desktop-releases/releases/latest), please ensure a production release exists: Error: net::ERR_CONNECTION_TIMED_OUT
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:134277)
+    at SimpleURLLoaderWrapper.emit (node:events:509:28)
+    at newError (D:\mysoft\pencil\resources\app.asar\node_modules\builder-util-runtime\out\error.js:5:19)
+    at GitHubProvider.getLatestTagName (D:\mysoft\pencil\resources\app.asar\node_modules\electron-updater\out\providers\GitHubProvider.js:162:55)
+    at async GitHubProvider.getLatestVersion (D:\mysoft\pencil\resources\app.asar\node_modules\electron-updater\out\providers\GitHubProvider.js:86:23)
+    at async NsisUpdater.getUpdateInfoAndProvider (D:\mysoft\pencil\resources\app.asar\node_modules\electron-updater\out\AppUpdater.js:389:19)
+    at async NsisUpdater.doCheckForUpdates (D:\mysoft\pencil\resources\app.asar\node_modules\electron-updater\out\AppUpdater.js:402:24)
+    at async checkForUpdates (D:\mysoft\pencil\resources\app.asar\out\updater.js:102:33)
+    at async setupUpdater (D:\mysoft\pencil\resources\app.asar\out\updater.js:91:9)
+    at async PencilApp.initialize (D:\mysoft\pencil\resources\app.asar\out\app.js:63:13)
+    at async D:\mysoft\pencil\resources\app.asar\out\main.js:142:5,
+XML:
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:https://github.com/highagency/pencil-desktop-releases/releases</id>
+  <link type="text/html" rel="alternate" href="https://github.com/highagency/pencil-desktop-releases/releases"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/highagency/pencil-desktop-releases/releases.atom"/>
+  <title>Release notes from pencil-desktop-releases</title>
+  <updated>2026-01-01T21:20:02Z</updated>
+  <entry>
+    <id>tag:github.com,2008:Repository/1125737348/v1.1.61</id>
+    <updated>2026-06-03T11:08:34Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/highagency/pencil-desktop-releases/releases/tag/v1.1.61"/>
+    <title>1.1.61</title>
+    <content>No content.</content>
+    <author>
+      <name>gerhardberger</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/1059699?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/1125737348/v1.1.60</id>
+    <updated>2026-05-30T07:00:31Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/highagency/pencil-desktop-releases/releases/tag/v1.1.60"/>
+    <title>1.1.60</title>
+    <content>No content.</content>
+    <author>
+      <name>gerhardberger</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/1059699?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/1125737348/v1.1.59</id>
+    <updated>2026-05-27T06:28:50Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/highagency/pencil-desktop-releases/releases/tag/v1.1.59"/>
+    <title>1.1.59</title>
+    <content>No content.</content>
+    <author>
+      <name>gerhardberger</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/1059699?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/1125737348/v1.1.58</id>
+    <updated>2026-05-26T18:23:47Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/highagency/pencil-desktop-releases/releases/tag/v1.1.58"/>
+    <title>1.1.58</title>
+    <content>No content.</content>
+    <author>
+      <name>gerhardberger</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/1059699?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/1125737348/v1.1.57</id>
+    <updated>2026-05-18T18:32:34Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/highagency/pencil-desktop-releases/releases/tag/v1.1.57"/>
+    <title>1.1.57</title>
+    <content>No content.</content>
+    <author>
+      <name>gerhardberger</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/1059699?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/1125737348/v1.1.56</id>
+    <updated>2026-05-07T09:49:00Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/highagency/pencil-desktop-releases/releases/tag/v1.1.56"/>
+    <title>1.1.56</title>
+    <content>No content.</content>
+    <author>
+      <name>gerhardberger</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/1059699?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/1125737348/v1.1.55</id>
+    <updated>2026-04-30T20:01:20Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/highagency/pencil-desktop-releases/releases/tag/v1.1.55"/>
+    <title>1.1.55</title>
+    <content>No content.</content>
+    <author>
+      <name>gerhardberger</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/1059699?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/1125737348/v1.1.54</id>
+    <updated>2026-01-01T21:20:02Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/highagency/pencil-desktop-releases/releases/tag/v1.1.54"/>
+    <title>v1.1.54</title>
+    <content type="html">&lt;p&gt;first commit&lt;/p&gt;</content>
+    <author>
+      <name>gerhardberger</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/1059699?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/1125737348/v1.1.53</id>
+    <updated>2026-01-01T21:20:02Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/highagency/pencil-desktop-releases/releases/tag/v1.1.53"/>
+    <title>v1.1.53</title>
+    <content type="html">&lt;p&gt;first commit&lt;/p&gt;</content>
+    <author>
+      <name>gerhardberger</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/1059699?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/1125737348/v1.1.52</id>
+    <updated>2026-01-01T21:20:02Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/highagency/pencil-desktop-releases/releases/tag/v1.1.52"/>
+    <title>v1.1.52</title>
+    <content type="html">&lt;p&gt;first commit&lt;/p&gt;</content>
+    <author>
+      <name>gerhardberger</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/1059699?s=60&amp;v=4"/>
+  </entry>
+</feed>
+
+[2026-06-05 17:01:35.717] [info]  loadFile D:\workspace\mywork\ideaProjects\boot_ai_alibaba\docs\数字人交互设计.pen zoomToFit: true
+[2026-06-05 17:01:35.841] [info]  Initializing IPC server
+[2026-06-05 17:01:35.842] [debug] Registering notification handler for 'add-to-chat'
+[2026-06-05 17:01:35.843] [debug] Registering handler for 'get-fullscreen'
+[2026-06-05 17:01:35.843] [debug] Registering handler for 'get-active-integrations'
+[2026-06-05 17:01:35.844] [debug] Registering handler for 'get-mcp-config'
+[2026-06-05 17:01:35.844] [debug] Registering notification handler for 'change-workspace-folder'
+[2026-06-05 17:01:35.844] [debug] Registering notification handler for 'request-save'
+[2026-06-05 17:01:35.845] [debug] Registering notification handler for 'toggle-theme'
+[2026-06-05 17:01:35.845] [debug] Registering notification handler for 'set-native-theme'
+[2026-06-05 17:01:35.846] [debug] Registering notification handler for 'set-vibrancy'
+[2026-06-05 17:01:35.846] [debug] Registering notification handler for 'desktop-open-terminal'
+[2026-06-05 17:01:35.847] [debug] Registering handler for 'agent-set-api-key'
+[2026-06-05 17:01:35.847] [debug] Registering notification handler for 'toggle-mcp-integration'
+[2026-06-05 17:01:35.847] [debug] Registering notification handler for 'show-about'
+[2026-06-05 17:01:35.848] [debug] Registering notification handler for 'initialized'
+[2026-06-05 17:01:35.848] [debug] Registering notification handler for 'add-extension-to-ide'
+[2026-06-05 17:01:35.849] [info]  addResource: D:\workspace\mywork\ideaProjects\boot_ai_alibaba\docs\数字人交互设计.pen
+[2026-06-05 17:01:35.850] [debug] Registering handler for 'get-session'
+[2026-06-05 17:01:35.850] [debug] Registering notification handler for 'set-session'
+[2026-06-05 17:01:35.851] [debug] Registering handler for 'get-last-online-at'
+[2026-06-05 17:01:35.851] [debug] Registering notification handler for 'set-last-online-at'
+[2026-06-05 17:01:35.852] [debug] Registering handler for 'get-device-id'
+[2026-06-05 17:01:35.852] [debug] Registering handler for 'read-file'
+[2026-06-05 17:01:35.852] [debug] Registering handler for 'stat-file'
+[2026-06-05 17:01:35.853] [debug] Registering handler for 'watch-file'
+[2026-06-05 17:01:35.853] [debug] Registering handler for 'unwatch-file'
+[2026-06-05 17:01:35.854] [debug] Registering handler for 'save-generated-image'
+[2026-06-05 17:01:35.854] [debug] Registering handler for 'save-temp-file'
+[2026-06-05 17:01:35.855] [debug] Registering notification handler for 'cleanup-temp-files'
+[2026-06-05 17:01:35.855] [debug] Registering notification handler for 'initialized'
+[2026-06-05 17:01:35.856] [debug] Registering notification handler for 'file-changed'
+[2026-06-05 17:01:35.856] [debug] Registering handler for 'import-file'
+[2026-06-05 17:01:35.857] [debug] Registering handler for 'import-files'
+[2026-06-05 17:01:35.857] [debug] Registering handler for 'import-uri'
+[2026-06-05 17:01:35.858] [debug] Registering notification handler for 'send-prompt'
+[2026-06-05 17:01:35.858] [debug] Registering handler for 'agent-stop'
+[2026-06-05 17:01:35.859] [debug] Registering handler for 'agent-probe'
+[2026-06-05 17:01:35.859] [debug] Registering notification handler for 'open-document'
+[2026-06-05 17:01:35.860] [debug] Registering notification handler for 'submit-prompt'
+[2026-06-05 17:01:35.860] [debug] Registering notification handler for 'toggle-design-mode'
+[2026-06-05 17:01:35.861] [debug] Registering notification handler for 'set-left-sidebar-visible'
+[2026-06-05 17:01:35.861] [debug] Registering notification handler for 'sign-out'
+[2026-06-05 17:01:35.862] [debug] Registering notification handler for 'open-external-url'
+[2026-06-05 17:01:35.862] [debug] Registering notification handler for 'load-file'
+[2026-06-05 17:01:35.863] [debug] Registering handler for 'find-libraries'
+[2026-06-05 17:01:35.863] [debug] Registering notification handler for 'turn-into-library'
+[2026-06-05 17:01:35.864] [debug] Registering handler for 'browse-libraries'
+[2026-06-05 17:01:35.864] [debug] Registering handler for 'pick-snapshot-extract-directory'
+[2026-06-05 17:01:35.865] [debug] Registering handler for 'write-snapshot-import'
+[2026-06-05 17:01:35.865] [debug] Registering handler for 'chat-sessions-load'
+[2026-06-05 17:01:35.866] [debug] Registering handler for 'chat-session-save'
+[2026-06-05 17:01:35.868] [debug] Registering handler for 'chat-session-delete'
+[2026-06-05 17:01:35.869] [debug] Registering notification handler for 'share-upload-changed'
+[2026-06-05 17:01:35.879] [info]  [DesktopResourceDevice] loadURL()
+[2026-06-05 17:01:37.346] [debug] Sending notification 'workspace-folder-changed'
+[2026-06-05 17:01:37.347] [debug] Sending notification: workspace-folder-changed { id: 'ext-1-1780650097346', hasPayload: true }
+[2026-06-05 17:01:37.348] [debug] Registering notification handler for 'desktop-update-install'
+[2026-06-05 17:01:37.348] [debug] Registering notification handler for 'set-install-on-app-quit'
+[2026-06-05 17:01:37.405] [debug] Received notification: share-upload-changed { id: 'ext-1-1780650097404', hasPayload: true }
+[2026-06-05 17:01:37.406] [debug] Handling notification 'share-upload-changed' with 1 handlers
+[2026-06-05 17:01:37.406] [debug] Received request: get-fullscreen { id: 'ext-2-1780650097406', hasPayload: false }
+[2026-06-05 17:01:37.407] [debug] Sending response: get-fullscreen { id: 'ext-2-1780650097406', hasPayload: false }
+[2026-06-05 17:01:37.407] [debug] Received request: get-last-online-at { id: 'ext-3-1780650097407', hasPayload: false }
+[2026-06-05 17:01:37.415] [debug] Sending response: get-last-online-at { id: 'ext-3-1780650097407', hasPayload: true }
+[2026-06-05 17:01:37.417] [debug] Received notification: set-native-theme { id: 'ext-4-1780650097408', hasPayload: true }
+[2026-06-05 17:01:37.417] [debug] Handling notification 'set-native-theme' with 1 handlers
+[2026-06-05 17:01:37.424] [debug] Received request: get-active-integrations { id: 'ext-5-1780650097410', hasPayload: false }
+[2026-06-05 17:01:37.425] [debug] Sending response: get-active-integrations { id: 'ext-5-1780650097410', hasPayload: true }
+[2026-06-05 17:01:37.427] [debug] Received request: get-mcp-config { id: 'ext-6-1780650097410', hasPayload: false }
+[2026-06-05 17:01:37.427] [debug] Sending response: get-mcp-config { id: 'ext-6-1780650097410', hasPayload: true }
+[2026-06-05 17:01:37.964] [debug] Received request: chat-sessions-load { id: 'ext-7-1780650097965', hasPayload: false }
+[2026-06-05 17:01:37.965] [info]  [IPC] chat-sessions-load
+[2026-06-05 17:01:37.983] [debug] Sending response: chat-sessions-load { id: 'ext-7-1780650097965', hasPayload: true }
+[2026-06-05 17:01:38.024] [debug] Received notification: initialized { id: 'ext-8-1780650098024', hasPayload: false }
+[2026-06-05 17:01:38.024] [debug] Handling notification 'initialized' with 2 handlers
+[2026-06-05 17:01:38.025] [debug] AgentConfigManager.get()
+[2026-06-05 17:01:38.026] [info]  [AuthStore.getApiKey] provider: anthropic
+[2026-06-05 17:01:38.027] [info]  [AuthStore.getApiKey] provider: openai-codex
+[2026-06-05 17:01:38.028] [info]  [AuthStore.getApiKey] provider: google
+[2026-06-05 17:01:38.029] [debug] AgentConfigManager.notify()
+[2026-06-05 17:01:38.029] [debug] Sending notification 'agent-config-changed'
+[2026-06-05 17:01:38.030] [debug] Sending notification: agent-config-changed { id: 'ext-2-1780650098029', hasPayload: true }
+[2026-06-05 17:01:38.030] [info]  [IPC] initialized: D:\workspace\mywork\ideaProjects\boot_ai_alibaba\docs\数字人交互设计.pen
+[2026-06-05 17:01:38.031] [debug] Sending notification 'file-update'
+[2026-06-05 17:01:38.032] [debug] Sending notification: file-update { id: 'ext-3-1780650098031', hasPayload: true }
+[2026-06-05 17:01:38.036] [debug] Received notification: set-last-online-at { id: 'ext-9-1780650098025', hasPayload: true }
+[2026-06-05 17:01:38.037] [debug] Handling notification 'set-last-online-at' with 1 handlers
+[2026-06-05 17:01:38.205] [debug] Received notification: set-native-theme { id: 'ext-10-1780650098204', hasPayload: true }
+[2026-06-05 17:01:38.206] [debug] Handling notification 'set-native-theme' with 1 handlers
+[2026-06-05 17:01:38.218] [debug] Received request: get-session { id: 'ext-11-1780650098206', hasPayload: false }
+[2026-06-05 17:01:38.219] [info]  [IPC] get-session
+[2026-06-05 17:01:38.220] [debug] Sending response: get-session { id: 'ext-11-1780650098206', hasPayload: true }
+[2026-06-05 17:01:38.366] [debug] Received request: get-device-id { id: 'ext-12-1780650098367', hasPayload: false }
+[2026-06-05 17:01:38.367] [info]  [IPC] get-device-id
+[2026-06-05 17:01:38.369] [debug] Sending response: get-device-id { id: 'ext-12-1780650098367', hasPayload: true }
+[2026-06-05 17:01:39.849] [debug] Received notification: set-last-online-at { id: 'ext-13-1780650099847', hasPayload: true }
+[2026-06-05 17:01:39.850] [debug] Handling notification 'set-last-online-at' with 1 handlers
+[2026-06-05 17:02:46.935] [debug] Received request: read-file { id: 'ext-14-1780650166935', hasPayload: true }
+[2026-06-05 17:02:46.935] [info]  [IPC] read-file file:///D:/workspace/mywork/ideaProjects/boot_ai_alibaba/docs/image.png
+[2026-06-05 17:02:46.946] [debug] Sending response: read-file { id: 'ext-14-1780650166935', hasPayload: true }
+[2026-06-05 17:02:55.402] [info]  removeResource: D:\workspace\mywork\ideaProjects\boot_ai_alibaba\docs\数字人交互设计.pen
+[2026-06-05 17:02:55.402] [info]  [app] window-all-closed
+[2026-06-05 17:02:55.403] [info]  [app] before-quit
+[2026-06-05 17:02:55.403] [info]  [app] will-quit
+[2026-06-05 17:02:55.403] [info]  [app] Running cleanup…
+[2026-06-05 17:02:55.404] [info]  stopAllAgents()
+[2026-06-05 17:02:55.405] [info]  Transport server stopping
+[2026-06-05 17:02:55.405] [info]  Transport server stopped
+[2026-06-05 17:02:55.406] [info]  [app] Cleanup done
+[2026-06-05 17:02:55.407] [info]  [updater] quitAndInstallIfUpdateDownloaded: updateDownloaded=false, installOnAppQuit=false, forceQuitAndInstall=undefined, isQuitting=true
+[2026-06-05 17:02:55.409] [info]  [updater] No update to install, already quitting
+[2026-06-05 17:02:55.559] [info]  [app] quit (exitCode=0)
+[2026-06-09 18:24:37.763] [info]  [app] ready - IS_DEV: false, NODE_ENV: undefined
+[2026-06-09 18:24:38.792] [info]  Checking for update
+[2026-06-09 18:24:38.793] [info]  [updater] Checking for update…
+[2026-06-09 18:24:38.803] [info]  Transport server listening on pencil-desktop
+[2026-06-09 18:24:38.804] [info]  Transport server ready on pencil-desktop
+[2026-06-09 18:24:38.806] [info]  Removed MCP allow rules from claudeCodeCLI
+[2026-06-09 18:24:38.806] [info]  Uninstalled MCP server for claudeCodeCLI
+[2026-06-09 18:24:38.808] [info]  Uninstalled MCP server for codexCLI
+[2026-06-09 18:24:38.815] [info]  Uninstalled MCP server for geminiCLI
+[2026-06-09 18:24:38.821] [info]  Uninstalled MCP server for openCodeCLI
+[2026-06-09 18:24:38.827] [info]  Uninstalled MCP server for kiroCLI
+[2026-06-09 18:24:38.828] [info]  Uninstalled MCP server for claudeDesktop
+[2026-06-09 18:24:38.828] [info]  Uninstalled MCP server for antigravity
+[2026-06-09 18:24:38.832] [info]  Successfully set up MCP server for claudeCodeCLI
+[2026-06-09 18:24:38.833] [info]  Successfully set up MCP server for codexCLI
+[2026-06-09 18:24:38.833] [info]  Successfully set up MCP server for geminiCLI
+[2026-06-09 18:24:38.834] [info]  Successfully set up MCP server for openCodeCLI
+[2026-06-09 18:24:38.835] [info]  Successfully set up MCP server for kiroCLI
+[2026-06-09 18:24:38.835] [info]  Successfully set up MCP server for claudeDesktop
+[2026-06-09 18:24:39.527] [info]  Found version 1.1.62 (url: Pencil-1.1.62-win-arm64.exe, Pencil-1.1.62-win-x64.exe, Pencil-1.1.62-win.exe)
+[2026-06-09 18:24:39.528] [info]  [updater] Update available: 1.1.62
+[2026-06-09 18:24:39.528] [info]  Downloading update from Pencil-1.1.62-win-arm64.exe, Pencil-1.1.62-win-x64.exe, Pencil-1.1.62-win.exe
+[2026-06-09 18:24:39.529] [debug] updater cache dir: C:\Users\root\AppData\Local\pencil-updater
+[2026-06-09 18:24:39.532] [info]  loadFile D:\workspace\mywork\ideaProjects\boot_ai_alibaba\docs\数字人交互设计.pen zoomToFit: true
+[2026-06-09 18:24:39.542] [info]  Cached update sha512 checksum doesn't match the latest available update. New update must be downloaded. Cached: uABG54BM/i1j4CowpSHBnWhSGnZgio2YUQ8RvSgPUECY1vd/BSUm4MJl1aH2HkFGghUgqXO4S3QDTCFtOxj4zg==, expected: JZcVjTwHCKtkUZW4sw8p02cOAM39U799gn56+IVupxcOWiK8ygnTNGx47YCLsRoup1GFSZGryekCfTe2liJo6Q==. Directory for cached update will be cleaned
+[2026-06-09 18:24:39.629] [info]  Initializing IPC server
+[2026-06-09 18:24:39.629] [debug] Registering notification handler for 'add-to-chat'
+[2026-06-09 18:24:39.629] [debug] Registering handler for 'get-fullscreen'
+[2026-06-09 18:24:39.630] [debug] Registering handler for 'get-active-integrations'
+[2026-06-09 18:24:39.630] [debug] Registering handler for 'get-mcp-config'
+[2026-06-09 18:24:39.630] [debug] Registering notification handler for 'change-workspace-folder'
+[2026-06-09 18:24:39.630] [debug] Registering notification handler for 'request-save'
+[2026-06-09 18:24:39.631] [debug] Registering notification handler for 'toggle-theme'
+[2026-06-09 18:24:39.631] [debug] Registering notification handler for 'set-native-theme'
+[2026-06-09 18:24:39.631] [debug] Registering notification handler for 'set-vibrancy'
+[2026-06-09 18:24:39.632] [debug] Registering notification handler for 'desktop-open-terminal'
+[2026-06-09 18:24:39.632] [debug] Registering handler for 'agent-set-api-key'
+[2026-06-09 18:24:39.632] [debug] Registering notification handler for 'toggle-mcp-integration'
+[2026-06-09 18:24:39.633] [debug] Registering notification handler for 'show-about'
+[2026-06-09 18:24:39.633] [debug] Registering notification handler for 'initialized'
+[2026-06-09 18:24:39.633] [debug] Registering notification handler for 'add-extension-to-ide'
+[2026-06-09 18:24:39.634] [info]  addResource: D:\workspace\mywork\ideaProjects\boot_ai_alibaba\docs\数字人交互设计.pen
+[2026-06-09 18:24:39.634] [debug] Registering handler for 'get-session'
+[2026-06-09 18:24:39.634] [debug] Registering notification handler for 'set-session'
+[2026-06-09 18:24:39.634] [debug] Registering handler for 'get-last-online-at'
+[2026-06-09 18:24:39.635] [debug] Registering notification handler for 'set-last-online-at'
+[2026-06-09 18:24:39.635] [debug] Registering handler for 'get-device-id'
+[2026-06-09 18:24:39.635] [debug] Registering handler for 'read-file'
+[2026-06-09 18:24:39.636] [debug] Registering handler for 'stat-file'
+[2026-06-09 18:24:39.636] [debug] Registering handler for 'watch-file'
+[2026-06-09 18:24:39.637] [debug] Registering handler for 'unwatch-file'
+[2026-06-09 18:24:39.637] [debug] Registering handler for 'save-generated-image'
+[2026-06-09 18:24:39.638] [debug] Registering handler for 'save-temp-file'
+[2026-06-09 18:24:39.638] [debug] Registering notification handler for 'cleanup-temp-files'
+[2026-06-09 18:24:39.638] [debug] Registering notification handler for 'initialized'
+[2026-06-09 18:24:39.638] [debug] Registering notification handler for 'file-changed'
+[2026-06-09 18:24:39.639] [debug] Registering handler for 'import-file'
+[2026-06-09 18:24:39.639] [debug] Registering handler for 'import-files'
+[2026-06-09 18:24:39.639] [debug] Registering handler for 'import-uri'
+[2026-06-09 18:24:39.639] [debug] Registering notification handler for 'send-prompt'
+[2026-06-09 18:24:39.640] [debug] Registering handler for 'agent-stop'
+[2026-06-09 18:24:39.640] [debug] Registering handler for 'agent-probe'
+[2026-06-09 18:24:39.640] [debug] Registering notification handler for 'open-document'
+[2026-06-09 18:24:39.641] [debug] Registering notification handler for 'submit-prompt'
+[2026-06-09 18:24:39.641] [debug] Registering notification handler for 'toggle-design-mode'
+[2026-06-09 18:24:39.641] [debug] Registering notification handler for 'set-left-sidebar-visible'
+[2026-06-09 18:24:39.641] [debug] Registering notification handler for 'sign-out'
+[2026-06-09 18:24:39.642] [debug] Registering notification handler for 'open-external-url'
+[2026-06-09 18:24:39.642] [debug] Registering notification handler for 'load-file'
+[2026-06-09 18:24:39.642] [debug] Registering handler for 'find-libraries'
+[2026-06-09 18:24:39.642] [debug] Registering notification handler for 'turn-into-library'
+[2026-06-09 18:24:39.643] [debug] Registering handler for 'browse-libraries'
+[2026-06-09 18:24:39.643] [debug] Registering handler for 'pick-snapshot-extract-directory'
+[2026-06-09 18:24:39.643] [debug] Registering handler for 'write-snapshot-import'
+[2026-06-09 18:24:39.643] [debug] Registering handler for 'chat-sessions-load'
+[2026-06-09 18:24:39.643] [debug] Registering handler for 'chat-session-save'
+[2026-06-09 18:24:39.644] [debug] Registering handler for 'chat-session-delete'
+[2026-06-09 18:24:39.644] [debug] Registering notification handler for 'share-upload-changed'
+[2026-06-09 18:24:39.649] [info]  [DesktopResourceDevice] loadURL()
+[2026-06-09 18:24:39.694] [warn]  disableWebInstaller is set to false, you should set it to true if you do not plan on using a web installer. This will default to true in a future version.
+[2026-06-09 18:24:39.695] [info]  Download block maps (old: "https://github.com/highagency/pencil-desktop-releases/releases/download/v1.1.60/Pencil-1.1.60-win-x64.exe.blockmap", new: https://github.com/highagency/pencil-desktop-releases/releases/download/v1.1.62/Pencil-1.1.62-win-x64.exe.blockmap)
+[2026-06-09 18:24:40.085] [debug] Sending notification 'workspace-folder-changed'
+[2026-06-09 18:24:40.085] [debug] Sending notification: workspace-folder-changed { id: 'ext-1-1781000680085', hasPayload: true }
+[2026-06-09 18:24:40.086] [debug] Registering notification handler for 'desktop-update-install'
+[2026-06-09 18:24:40.086] [debug] Registering notification handler for 'set-install-on-app-quit'
+[2026-06-09 18:24:40.100] [debug] Received notification: share-upload-changed { id: 'ext-1-1781000680101', hasPayload: true }
+[2026-06-09 18:24:40.101] [debug] Handling notification 'share-upload-changed' with 1 handlers
+[2026-06-09 18:24:40.102] [debug] Received request: get-fullscreen { id: 'ext-2-1781000680101', hasPayload: false }
+[2026-06-09 18:24:40.102] [debug] Sending response: get-fullscreen { id: 'ext-2-1781000680101', hasPayload: false }
+[2026-06-09 18:24:40.102] [debug] Received request: get-last-online-at { id: 'ext-3-1781000680102', hasPayload: false }
+[2026-06-09 18:24:40.109] [debug] Sending response: get-last-online-at { id: 'ext-3-1781000680102', hasPayload: true }
+[2026-06-09 18:24:40.110] [debug] Received notification: set-native-theme { id: 'ext-4-1781000680102', hasPayload: true }
+[2026-06-09 18:24:40.110] [debug] Handling notification 'set-native-theme' with 1 handlers
+[2026-06-09 18:24:40.115] [debug] Received request: get-active-integrations { id: 'ext-5-1781000680102', hasPayload: false }
+[2026-06-09 18:24:40.116] [debug] Sending response: get-active-integrations { id: 'ext-5-1781000680102', hasPayload: true }
+[2026-06-09 18:24:40.116] [debug] Received request: get-mcp-config { id: 'ext-6-1781000680102', hasPayload: false }
+[2026-06-09 18:24:40.117] [debug] Sending response: get-mcp-config { id: 'ext-6-1781000680102', hasPayload: true }
+[2026-06-09 18:24:40.331] [debug] Received request: chat-sessions-load { id: 'ext-7-1781000680331', hasPayload: false }
+[2026-06-09 18:24:40.332] [info]  [IPC] chat-sessions-load
+[2026-06-09 18:24:40.355] [debug] Sending response: chat-sessions-load { id: 'ext-7-1781000680331', hasPayload: true }
+[2026-06-09 18:24:40.367] [info]  File has 6486 changed blocks
+[2026-06-09 18:24:40.368] [debug] [
+  {
+    "kind": 1,
+    "start": 0,
+    "end": 15450
+  },
+  {
+    "kind": 0,
+    "start": 15450,
+    "end": 23693
+  },
+  {
+    "kind": 1,
+    "start": 23693,
+    "end": 41834
+  },
+  {
+    "kind": 0,
+    "start": 41834,
+    "end": 141946
+  },
+  {
+    "kind": 1,
+    "start": 141946,
+    "end": 233177
+  },
+  {
+    "kind": 0,
+    "start": 233165,
+    "end": 265933
+  },
+  {
+    "kind": 1,
+    "start": 265945,
+    "end": 284396
+  },
+  {
+    "kind": 0,
+    "start": 284384,
+    "end": 13141041
+  },
+  {
+    "kind": 1,
+    "start": 13141053,
+    "end": 19416708
+  },
+  {
+    "kind": 0,
+    "start": 19275195,
+    "end": 19289764
+  },
+  {
+    "kind": 1,
+    "start": 19431277,
+    "end": 20578569
+  },
+  {
+    "kind": 0,
+    "start": 20437110,
+    "end": 20468092
+  },
+  {
+    "kind": 1,
+    "start": 20609551,
+    "end": 20839125
+  },
+  {
+    "kind": 0,
+    "start": 20697700,
+    "end": 20719439
+  },
+  {
+    "kind": 1,
+    "start": 20860864,
+    "end": 21661861
+  },
+  {
+    "kind": 0,
+    "start": 21520525,
+    "end": 21542642
+  },
+  {
+    "kind": 1,
+    "start": 21683978,
+    "end": 22440075
+  },
+  {
+    "kind": 0,
+    "start": 22298529,
+    "end": 22341072
+  },
+  {
+    "kind": 1,
+    "start": 22482618,
+    "end": 22635929
+  },
+  {
+    "kind": 0,
+    "start": 22494979,
+    "end": 22527747
+  },
+  {
+    "kind": 1,
+    "start": 22668697,
+    "end": 22897343
+  },
+  {
+    "kind": 0,
+    "start": 22756718,
+    "end": 22768156
+  },
+  {
+    "kind": 1,
+    "start": 22908781,
+    "end": 23124934
+  },
+  {
+    "kind": 0,
+    "start": 22984314,
+    "end": 23025809
+  },
+  {
+    "kind": 1,
+    "start": 23166429,
+    "end": 23181780
+  },
+  {
+    "kind": 0,
+    "start": 23041160,
+    "end": 23072168
+  },
+  {
+    "kind": 1,
+    "start": 23212788,
+    "end": 23767811
+  },
+  {
+    "kind": 0,
+    "start": 23626934,
+    "end": 23659702
+  },
+  {
+    "kind": 1,
+    "start": 23800579,
+    "end": 23824485
+  },
+  {
+    "kind": 0,
+    "start": 23683608,
+    "end": 23707958
+  },
+  {
+    "kind": 1,
+    "start": 23848835,
+    "end": 23870553
+  },
+  {
+    "kind": 0,
+    "start": 23729676,
+    "end": 23745895
+  },
+  {
+    "kind": 1,
+    "start": 23886772,
+    "end": 24354810
+  },
+  {
+    "kind": 0,
+    "start": 24213969,
+    "end": 24246737
+  },
+  {
+    "kind": 1,
+    "start": 24387578,
+    "end": 24420346
+  },
+  {
+    "kind": 0,
+    "start": 24279505,
+    "end": 24289888
+  },
+  {
+    "kind": 1,
+    "start": 24430729,
+    "end": 24757290
+  },
+  {
+    "kind": 0,
+    "start": 24616307,
+    "end": 24634179
+  },
+  {
+    "kind": 1,
+    "start": 24775162,
+    "end": 24998255
+  },
+  {
+    "kind": 0,
+    "start": 24857819,
+    "end": 24867218
+  },
+  {
+    "kind": 1,
+    "start": 25007654,
+    "end": 25040422
+  },
+  {
+    "kind": 0,
+    "start": 24899986,
+    "end": 24938390
+  },
+  {
+    "kind": 1,
+    "start": 25078826,
+    "end": 25099745
+  },
+  {
+    "kind": 0,
+    "start": 24959309,
+    "end": 24971607
+  },
+  {
+    "kind": 1,
+    "start": 25112043,
+    "end": 25233030
+  },
+  {
+    "kind": 0,
+    "start": 25092606,
+    "end": 25128289
+  },
+  {
+    "kind": 1,
+    "start": 25268713,
+    "end": 25293181
+  },
+  {
+    "kind": 0,
+    "start": 25152757,
+    "end": 25161485
+  },
+  {
+    "kind": 1,
+    "start": 25301909,
+    "end": 27505650
+  },
+  {
+    "kind": 0,
+    "start": 27364852,
+    "end": 27392467
+  },
+  {
+    "kind": 1,
+    "start": 27533265,
+    "end": 27551928
+  },
+  {
+    "kind": 0,
+    "start": 27411130,
+    "end": 27438662
+  },
+  {
+    "kind": 1,
+    "start": 27579460,
+    "end": 28502721
+  },
+  {
+    "kind": 0,
+    "start": 28361814,
+    "end": 28371898
+  },
+  {
+    "kind": 1,
+    "start": 28512805,
+    "end": 28579597
+  },
+  {
+    "kind": 0,
+    "start": 28438690,
+    "end": 28468693
+  },
+  {
+    "kind": 1,
+    "start": 28609600,
+    "end": 28642368
+  },
+  {
+    "kind": 0,
+    "start": 28501461,
+    "end": 28515660
+  },
+  {
+    "kind": 1,
+    "start": 28656567,
+    "end": 28682967
+  },
+  {
+    "kind": 0,
+    "start": 28542060,
+    "end": 28560628
+  },
+  {
+    "kind": 1,
+    "start": 28701535,
+    "end": 28734303
+  },
+  {
+    "kind": 0,
+    "start": 28593396,
+    "end": 28603602
+  },
+  {
+    "kind": 1,
+    "start": 28744509,
+    "end": 28775620
+  },
+  {
+    "kind": 0,
+    "start": 28634713,
+    "end": 28653387
+  },
+  {
+    "kind": 1,
+    "start": 28794294,
+    "end": 28816687
+  },
+  {
+    "kind": 0,
+    "start": 28675780,
+    "end": 28711766
+  },
+  {
+    "kind": 1,
+    "start": 28852673,
+    "end": 28917123
+  },
+  {
+    "kind": 0,
+    "start": 28776216,
+    "end": 28799483
+  },
+  {
+    "kind": 1,
+    "start": 28940390,
+    "end": 28973158
+  },
+  {
+    "kind": 0,
+    "start": 28832251,
+    "end": 28847952
+  },
+  {
+    "kind": 1,
+    "start": 28988859,
+    "end": 29018910
+  },
+  {
+    "kind": 0,
+    "start": 28878003,
+    "end": 28910771
+  },
+  {
+    "kind": 1,
+    "start": 29051678,
+    "end": 29084446
+  },
+  {
+    "kind": 0,
+    "start": 28943539,
+    "end": 28954356
+  },
+  {
+    "kind": 1,
+    "start": 29095263,
+    "end": 29115499
+  },
+  {
+    "kind": 0,
+    "start": 28974592,
+    "end": 29005760
+  },
+  {
+    "kind": 1,
+    "start": 29146667,
+    "end": 29164374
+  },
+  {
+    "kind": 0,
+    "start": 29023467,
+    "end": 29052637
+  },
+  {
+    "kind": 1,
+    "start": 29193544,
+    "end": 29213837
+  },
+  {
+    "kind": 0,
+    "start": 29072930,
+    "end": 29105952
+  },
+  {
+    "kind": 1,
+    "start": 29246859,
+    "end": 29261822
+  },
+  {
+    "kind": 0,
+    "start": 29120915,
+    "end": 29146602
+  },
+  {
+    "kind": 1,
+    "start": 29287509,
+    "end": 29305743
+  },
+  {
+    "kind": 0,
+    "start": 29164836,
+    "end": 29174745
+  },
+  {
+    "kind": 1,
+    "start": 29315652,
+    "end": 29362171
+  },
+  {
+    "kind": 0,
+    "start": 29221264,
+    "end": 29240874
+  },
+  {
+    "kind": 1,
+    "start": 29381781,
+    "end": 29404992
+  },
+  {
+    "kind": 0,
+    "start": 29264085,
+    "end": 29274925
+  },
+  {
+    "kind": 1,
+    "start": 29415832,
+    "end": 29448600
+  },
+  {
+    "kind": 0,
+    "start": 29307693,
+    "end": 29338736
+  },
+  {
+    "kind": 1,
+    "start": 29479643,
+    "end": 29512411
+  },
+  {
+    "kind": 0,
+    "start": 29371504,
+    "end": 29383027
+  },
+  {
+    "kind": 1,
+    "start": 29523934,
+    "end": 29545462
+  },
+  {
+    "kind": 0,
+    "start": 29404555,
+    "end": 29429470
+  },
+  {
+    "kind": 1,
+    "start": 29570377,
+    "end": 29603145
+  },
+  {
+    "kind": 0,
+    "start": 29462238,
+    "end": 29473228
+  },
+  {
+    "kind": 1,
+    "start": 29614135,
+    "end": 29649557
+  },
+  {
+    "kind": 0,
+    "start": 29508650,
+    "end": 29539516
+  },
+  {
+    "kind": 1,
+    "start": 29680423,
+    "end": 29745149
+  },
+  {
+    "kind": 0,
+    "start": 29604242,
+    "end": 29632091
+  },
+  {
+    "kind": 1,
+    "start": 29772998,
+    "end": 29908446
+  },
+  {
+    "kind": 0,
+    "start": 29767539,
+    "end": 29776717
+  },
+  {
+    "kind": 1,
+    "start": 29917624,
+    "end": 39871612
+  },
+  {
+    "kind": 0,
+    "start": 39736226,
+    "end": 60086597
+  },
+  {
+    "kind": 1,
+    "start": 60221983,
+    "end": 115133383
+  },
+  {
+    "kind": 0,
+    "start": 114997782,
+    "end": 115030550
+  },
+  {
+    "kind": 1,
+    "start": 115166151,
+    "end": 120972716
+  },
+  {
+    "kind": 0,
+    "start": 120840870,
+    "end": 121159901
+  },
+  {
+    "kind": 1,
+    "start": 121291747,
+    "end": 121353119
+  },
+  {
+    "kind": 0,
+    "start": 121221274,
+    "end": 123280411
+  },
+  {
+    "kind": 1,
+    "start": 123412256,
+    "end": 123471473
+  },
+  {
+    "kind": 0,
+    "start": 123339632,
+    "end": 126266992
+  },
+  {
+    "kind": 1,
+    "start": 126398833,
+    "end": 142591311
+  },
+  {
+    "kind": 0,
+    "start": 142459108,
+    "end": 142491876
+  },
+  {
+    "kind": 1,
+    "start": 142624079,
+    "end": 142637883
+  },
+  {
+    "kind": 0,
+    "start": 142505680,
+    "end": 142542615
+  },
+  {
+    "kind": 1,
+    "start": 142674818,
+    "end": 173353684
+  },
+  {
+    "kind": 0,
+    "start": 173221322,
+    "end": 173984501
+  },
+  {
+    "kind": 1,
+    "start": 174116863,
+    "end": 174135512
+  },
+  {
+    "kind": 0,
+    "start": 174003146,
+    "end": 231508422
+  },
+  {
+    "kind": 1,
+    "start": 231640788,
+    "end": 232806943
+  },
+  {
+    "kind": 0,
+    "start": 232674583,
+    "end": 234922769
+  },
+  {
+    "kind": 1,
+    "start": 235055129,
+    "end": 236516882
+  },
+  {
+    "kind": 0,
+    "start": 236384757,
+    "end": 236412676
+  },
+  {
+    "kind": 1,
+    "start": 236544801,
+    "end": 236742208
+  },
+  {
+    "kind": 0,
+    "start": 236609373,
+    "end": 238234428
+  },
+  {
+    "kind": 1,
+    "start": 238367263,
+    "end": 238379688
+  },
+  {
+    "kind": 0,
+    "start": 238246857,
+    "end": 238478289
+  },
+  {
+    "kind": 1,
+    "start": 238611120,
+    "end": 238791560
+  }
+]
+[2026-06-09 18:24:40.372] [info]  Full: 233,194.88 KB, To download: 133,364.88 KB (57%)
+[2026-06-09 18:24:40.375] [debug] Received notification: initialized { id: 'ext-8-1781000680376', hasPayload: false }
+[2026-06-09 18:24:40.376] [debug] Handling notification 'initialized' with 2 handlers
+[2026-06-09 18:24:40.376] [debug] AgentConfigManager.get()
+[2026-06-09 18:24:40.377] [info]  [AuthStore.getApiKey] provider: anthropic
+[2026-06-09 18:24:40.377] [info]  [AuthStore.getApiKey] provider: openai-codex
+[2026-06-09 18:24:40.378] [info]  [AuthStore.getApiKey] provider: google
+[2026-06-09 18:24:40.378] [debug] AgentConfigManager.notify()
+[2026-06-09 18:24:40.378] [debug] Sending notification 'agent-config-changed'
+[2026-06-09 18:24:40.378] [debug] Sending notification: agent-config-changed { id: 'ext-2-1781000680378', hasPayload: true }
+[2026-06-09 18:24:40.379] [info]  [IPC] initialized: D:\workspace\mywork\ideaProjects\boot_ai_alibaba\docs\数字人交互设计.pen
+[2026-06-09 18:24:40.379] [debug] Sending notification 'file-update'
+[2026-06-09 18:24:40.379] [debug] Sending notification: file-update { id: 'ext-3-1781000680379', hasPayload: true }
+[2026-06-09 18:24:40.425] [debug] Received notification: set-native-theme { id: 'ext-9-1781000680426', hasPayload: true }
+[2026-06-09 18:24:40.426] [debug] Handling notification 'set-native-theme' with 1 handlers
+[2026-06-09 18:24:40.432] [debug] Received request: get-session { id: 'ext-10-1781000680426', hasPayload: false }
+[2026-06-09 18:24:40.433] [info]  [IPC] get-session
+[2026-06-09 18:24:40.433] [debug] Sending response: get-session { id: 'ext-10-1781000680426', hasPayload: true }
+[2026-06-09 18:24:40.729] [debug] Received request: read-file { id: 'ext-11-1781000680730', hasPayload: true }
+[2026-06-09 18:24:40.730] [info]  [IPC] read-file file:///D:/workspace/mywork/ideaProjects/boot_ai_alibaba/docs/image.png
+[2026-06-09 18:24:40.739] [debug] Sending response: read-file { id: 'ext-11-1781000680730', hasPayload: true }
+[2026-06-09 18:24:40.933] [debug] Received request: get-device-id { id: 'ext-12-1781000680934', hasPayload: false }
+[2026-06-09 18:24:40.934] [info]  [IPC] get-device-id
+[2026-06-09 18:24:40.935] [debug] Sending response: get-device-id { id: 'ext-12-1781000680934', hasPayload: true }
+[2026-06-09 18:24:40.936] [debug] Received notification: set-last-online-at { id: 'ext-13-1781000680934', hasPayload: true }
+[2026-06-09 18:24:40.937] [debug] Handling notification 'set-last-online-at' with 1 handlers
+[2026-06-09 18:24:41.342] [info]  Differential download: https://github.com/highagency/pencil-desktop-releases/releases/download/v1.1.62/Pencil-1.1.62-win-x64.exe
+[2026-06-09 18:24:41.343] [debug] download range: bytes=0-15449
+[2026-06-09 18:24:41.423] [debug] Received notification: set-last-online-at { id: 'ext-14-1781000681423', hasPayload: true }
+[2026-06-09 18:24:41.423] [debug] Handling notification 'set-last-online-at' with 1 handlers
+[2026-06-09 18:24:41.690] [info]  Redirect to https://release-assets.githubusercontent.com/github-production-release-asset/1125737348/839d8e8e-e6ce-437e-82a1-7820fd666926
+[2026-06-09 18:24:41.762] [info]  [updater] Download progress: 0%
+[2026-06-09 18:24:41.763] [debug] download range: bytes=23693-41833
+[2026-06-09 18:24:41.846] [info]  [updater] Download progress: 0%
+[2026-06-09 18:24:41.847] [debug] download range: bytes=141946-233176
+[2026-06-09 18:24:41.927] [info]  [updater] Download progress: 0%
+[2026-06-09 18:24:41.928] [debug] download range: bytes=265945-284395
+[2026-06-09 18:24:42.006] [info]  [updater] Download progress: 0%
+[2026-06-09 18:24:42.043] [debug] download range: bytes=13141053-19416707
+[2026-06-09 18:24:42.343] [info]  [updater] Download progress: 0%
+[2026-06-09 18:24:44.638] [debug] Received request: agent-probe { id: 'ext-15-1781000684637', hasPayload: true }
+[2026-06-09 18:24:44.639] [info]  [IPC] agent-probe { agentType: 'claude' }
+[2026-06-09 18:24:44.641] [info]  [AuthStore.getApiKey] provider: anthropic
+[2026-06-09 18:24:45.227] [debug] Received request: agent-probe { id: 'ext-16-1781000684637', hasPayload: true }
+[2026-06-09 18:24:45.228] [info]  [IPC] agent-probe { agentType: 'codex' }
+[2026-06-09 18:24:45.228] [info]  [AuthStore.getApiKey] provider: anthropic
+[2026-06-09 18:24:48.679] [info]  New MCP client connected with ID: 9deda3f6-12dc-4b3e-b3b0-667bbdcebb59
+[2026-06-09 18:24:48.694] [info]  [ipc-device-manager] event: agent-connected codexCLI
+[2026-06-09 18:24:48.694] [debug] Sending notification 'connected-agents-changed'
+[2026-06-09 18:24:48.695] [debug] Sending notification: connected-agents-changed { id: 'ext-4-1781000688694', hasPayload: true }
+[2026-06-09 18:24:48.711] [info]  New MCP client connected with ID: 59bbd5c2-1360-47ca-9b02-910ab77794d2
+[2026-06-09 18:24:48.721] [info]  [ipc-device-manager] event: agent-connected claudeCodeCLI
+[2026-06-09 18:24:48.722] [debug] Sending notification 'connected-agents-changed'
+[2026-06-09 18:24:48.723] [debug] Sending notification: connected-agents-changed { id: 'ext-5-1781000688722', hasPayload: true }
+[2026-06-09 18:24:49.850] [debug] Sending response: agent-probe { id: 'ext-15-1781000684637', hasPayload: true }
+[2026-06-09 18:24:49.873] [info]  [ipc-device-manager] event: agent-disconnected claudeCodeCLI
+[2026-06-09 18:24:49.873] [debug] Sending notification 'connected-agents-changed'
+[2026-06-09 18:24:49.874] [debug] Sending notification: connected-agents-changed { id: 'ext-6-1781000689873', hasPayload: true }
+[2026-06-09 18:24:49.874] [info]  MCP client disconnected: 59bbd5c2-1360-47ca-9b02-910ab77794d2
+[2026-06-09 18:24:52.678] [debug] Received request: agent-probe { id: 'ext-17-1781000692679', hasPayload: true }
+[2026-06-09 18:24:52.679] [info]  [IPC] agent-probe { agentType: 'claude' }
+[2026-06-09 18:24:52.679] [info]  [AuthStore.getApiKey] provider: anthropic
+[2026-06-09 18:24:53.357] [info]  New MCP client connected with ID: 2a255937-c3c4-4c82-9ec0-f09cc4128554
+[2026-06-09 18:24:53.368] [info]  [ipc-device-manager] event: agent-connected claudeCodeCLI
+[2026-06-09 18:24:53.368] [debug] Sending notification 'connected-agents-changed'
+[2026-06-09 18:24:53.369] [debug] Sending notification: connected-agents-changed { id: 'ext-7-1781000693368', hasPayload: true }
+[2026-06-09 18:24:55.395] [debug] Sending response: agent-probe { id: 'ext-17-1781000692679', hasPayload: true }
+[2026-06-09 18:24:55.408] [info]  [ipc-device-manager] event: agent-disconnected claudeCodeCLI
+[2026-06-09 18:24:55.410] [debug] Sending notification 'connected-agents-changed'
+[2026-06-09 18:24:55.410] [debug] Sending notification: connected-agents-changed { id: 'ext-8-1781000695410', hasPayload: true }
+[2026-06-09 18:24:55.411] [info]  MCP client disconnected: 2a255937-c3c4-4c82-9ec0-f09cc4128554
+[2026-06-09 18:25:30.282] [info]  [ipc-device-manager] event: agent-disconnected codexCLI
+[2026-06-09 18:25:30.282] [debug] Sending notification 'connected-agents-changed'
+[2026-06-09 18:25:30.283] [debug] Sending notification: connected-agents-changed { id: 'ext-9-1781000730282', hasPayload: true }
+[2026-06-09 18:25:30.283] [info]  MCP client disconnected: 9deda3f6-12dc-4b3e-b3b0-667bbdcebb59
+[2026-06-09 18:25:30.322] [warn]  Codex probe failed: The operation was aborted
+[2026-06-09 18:25:30.322] [debug] Sending response: agent-probe { id: 'ext-16-1781000684637', hasPayload: true }
+[2026-06-09 18:29:12.023] [info]  New MCP client connected with ID: 53a0f379-4746-4b49-ae79-45804ee4592a
+[2026-06-09 18:29:12.031] [info]  [ipc-device-manager] event: agent-connected 
+[2026-06-09 18:29:12.032] [debug] Sending notification 'connected-agents-changed'
+[2026-06-09 18:29:12.032] [debug] Sending notification: connected-agents-changed { id: 'ext-10-1781000952032', hasPayload: true }
+[2026-06-09 18:29:37.276] [debug] Sending request 'get-editor-state' (timeout: 60000ms)
+[2026-06-09 18:29:37.277] [debug] Sending request: get-editor-state { id: 'ext-11-1781000977277', hasPayload: true }
+[2026-06-09 18:29:37.282] [debug] Received response: get-editor-state { id: 'ext-11-1781000977277', hasPayload: true }
+[2026-06-09 18:29:46.644] [debug] Sending request 'batch-get' (timeout: 60000ms)
+[2026-06-09 18:29:46.645] [debug] Sending request: batch-get { id: 'ext-12-1781000986645', hasPayload: true }
+[2026-06-09 18:29:46.652] [debug] Received response: batch-get { id: 'ext-12-1781000986645', hasPayload: true }
+[2026-06-09 18:34:52.786] [info]  [updater] Download progress: 4%
+[2026-06-09 18:34:52.915] [error] Cannot download differentially, fallback to full download: Error: net::ERR_CONNECTION_ABORTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:134277)
+    at SimpleURLLoaderWrapper.emit (node:events:509:28)
+[2026-06-09 18:34:55.254] [info]  [updater] Download progress: 0%
+[2026-06-09 18:34:56.376] [info]  [updater] Download progress: 0%
+[2026-06-09 18:34:57.476] [info]  [updater] Download progress: 0%
+[2026-06-09 18:34:58.489] [info]  [updater] Download progress: 0%
+[2026-06-09 18:34:59.512] [info]  [updater] Download progress: 0%
+[2026-06-09 18:35:00.534] [info]  [updater] Download progress: 0%
+[2026-06-09 18:35:01.536] [info]  [updater] Download progress: 1%
+[2026-06-09 18:35:02.538] [info]  [updater] Download progress: 1%
+[2026-06-09 18:35:03.558] [info]  [updater] Download progress: 1%
+[2026-06-09 18:35:04.560] [info]  [updater] Download progress: 2%
+[2026-06-09 18:35:05.565] [info]  [updater] Download progress: 2%
+[2026-06-09 18:35:06.568] [info]  [updater] Download progress: 3%
+[2026-06-09 18:35:07.580] [info]  [updater] Download progress: 3%
+[2026-06-09 18:35:08.581] [info]  [updater] Download progress: 3%
+[2026-06-09 18:35:09.591] [info]  [updater] Download progress: 4%
+[2026-06-09 18:35:10.593] [info]  [updater] Download progress: 4%
+[2026-06-09 18:35:11.642] [info]  [updater] Download progress: 4%
+[2026-06-09 18:35:12.689] [info]  [updater] Download progress: 4%
+[2026-06-09 18:35:13.715] [info]  [updater] Download progress: 4%
+[2026-06-09 18:35:14.727] [info]  [updater] Download progress: 4%
+[2026-06-09 18:35:15.732] [info]  [updater] Download progress: 5%
+[2026-06-09 18:35:16.743] [info]  [updater] Download progress: 5%
+[2026-06-09 18:35:17.743] [info]  [updater] Download progress: 5%
+[2026-06-09 18:35:18.747] [info]  [updater] Download progress: 5%
+[2026-06-09 18:35:19.748] [info]  [updater] Download progress: 5%
+[2026-06-09 18:35:20.749] [info]  [updater] Download progress: 6%
+[2026-06-09 18:35:21.762] [info]  [updater] Download progress: 6%
+[2026-06-09 18:35:22.770] [info]  [updater] Download progress: 6%
+[2026-06-09 18:35:23.773] [info]  [updater] Download progress: 7%
+[2026-06-09 18:35:24.785] [info]  [updater] Download progress: 7%
+[2026-06-09 18:35:25.823] [info]  [updater] Download progress: 8%
+[2026-06-09 18:35:26.835] [info]  [updater] Download progress: 8%
+[2026-06-09 18:35:27.842] [info]  [updater] Download progress: 9%
+[2026-06-09 18:35:28.854] [info]  [updater] Download progress: 9%
+[2026-06-09 18:35:29.860] [info]  [updater] Download progress: 10%
+[2026-06-09 18:35:30.864] [info]  [updater] Download progress: 10%
+[2026-06-09 18:35:31.864] [info]  [updater] Download progress: 11%
+[2026-06-09 18:35:32.870] [info]  [updater] Download progress: 11%
+[2026-06-09 18:35:33.883] [info]  [updater] Download progress: 12%
+[2026-06-09 18:35:34.885] [info]  [updater] Download progress: 13%
+[2026-06-09 18:35:35.896] [info]  [updater] Download progress: 13%
+[2026-06-09 18:35:36.911] [info]  [updater] Download progress: 14%
+[2026-06-09 18:35:37.916] [info]  [updater] Download progress: 14%
+[2026-06-09 18:35:38.928] [info]  [updater] Download progress: 15%
+[2026-06-09 18:35:39.931] [info]  [updater] Download progress: 16%
+[2026-06-09 18:35:40.943] [info]  [updater] Download progress: 16%
+[2026-06-09 18:35:41.952] [info]  [updater] Download progress: 16%
+[2026-06-09 18:35:42.959] [info]  [updater] Download progress: 16%
+[2026-06-09 18:35:43.986] [info]  [updater] Download progress: 16%
+[2026-06-09 18:35:45.000] [info]  [updater] Download progress: 16%
+[2026-06-09 18:35:46.025] [info]  [updater] Download progress: 16%
+[2026-06-09 18:35:47.026] [info]  [updater] Download progress: 16%
+[2026-06-09 18:35:48.050] [info]  [updater] Download progress: 16%
+[2026-06-09 18:35:49.060] [info]  [updater] Download progress: 16%
+[2026-06-09 18:35:50.069] [info]  [updater] Download progress: 17%
+[2026-06-09 18:35:51.083] [info]  [updater] Download progress: 17%
+[2026-06-09 18:35:52.085] [info]  [updater] Download progress: 17%
+[2026-06-09 18:35:53.094] [info]  [updater] Download progress: 17%
+[2026-06-09 18:35:54.105] [info]  [updater] Download progress: 17%
+[2026-06-09 18:35:55.106] [info]  [updater] Download progress: 17%
+[2026-06-09 18:35:56.115] [info]  [updater] Download progress: 18%
+[2026-06-09 18:35:57.129] [info]  [updater] Download progress: 18%
+[2026-06-09 18:35:58.140] [info]  [updater] Download progress: 18%
+[2026-06-09 18:35:59.150] [info]  [updater] Download progress: 18%
+[2026-06-09 18:36:00.171] [info]  [updater] Download progress: 18%
+[2026-06-09 18:36:01.178] [info]  [updater] Download progress: 18%
+[2026-06-09 18:36:02.200] [info]  [updater] Download progress: 18%
+[2026-06-09 18:36:03.211] [info]  [updater] Download progress: 19%
+[2026-06-09 18:36:04.222] [info]  [updater] Download progress: 19%
+[2026-06-09 18:36:05.231] [info]  [updater] Download progress: 20%
+[2026-06-09 18:36:06.234] [info]  [updater] Download progress: 21%
+[2026-06-09 18:36:07.236] [info]  [updater] Download progress: 21%
+[2026-06-09 18:36:08.243] [info]  [updater] Download progress: 22%
+[2026-06-09 18:36:09.268] [info]  [updater] Download progress: 23%
+[2026-06-09 18:36:10.287] [info]  [updater] Download progress: 23%
+[2026-06-09 18:36:11.289] [info]  [updater] Download progress: 23%
+[2026-06-09 18:36:12.306] [info]  [updater] Download progress: 24%
+[2026-06-09 18:36:13.314] [info]  [updater] Download progress: 24%
+[2026-06-09 18:36:14.324] [info]  [updater] Download progress: 25%
+[2026-06-09 18:36:15.339] [info]  [updater] Download progress: 25%
+[2026-06-09 18:36:16.345] [info]  [updater] Download progress: 25%
+[2026-06-09 18:36:17.366] [info]  [updater] Download progress: 26%
+[2026-06-09 18:36:18.370] [info]  [updater] Download progress: 26%
+[2026-06-09 18:36:19.390] [info]  [updater] Download progress: 26%
+[2026-06-09 18:36:20.403] [info]  [updater] Download progress: 26%
+[2026-06-09 18:36:21.414] [info]  [updater] Download progress: 27%
+[2026-06-09 18:36:22.418] [info]  [updater] Download progress: 27%
+[2026-06-09 18:36:23.494] [info]  [updater] Download progress: 28%
+[2026-06-09 18:36:24.529] [info]  [updater] Download progress: 28%
+[2026-06-09 18:36:25.538] [info]  [updater] Download progress: 28%
+[2026-06-09 18:36:26.538] [info]  [updater] Download progress: 29%
+[2026-06-09 18:36:27.540] [info]  [updater] Download progress: 30%
+[2026-06-09 18:36:28.544] [info]  [updater] Download progress: 30%
+[2026-06-09 18:36:29.545] [info]  [updater] Download progress: 31%
+[2026-06-09 18:36:30.592] [info]  [updater] Download progress: 32%
+[2026-06-09 18:36:31.593] [info]  [updater] Download progress: 32%
+[2026-06-09 18:36:32.598] [info]  [updater] Download progress: 32%
+[2026-06-09 18:36:33.630] [info]  [updater] Download progress: 32%
+[2026-06-09 18:36:34.641] [info]  [updater] Download progress: 33%
+[2026-06-09 18:36:35.651] [info]  [updater] Download progress: 33%
+[2026-06-09 18:36:36.653] [info]  [updater] Download progress: 34%
+[2026-06-09 18:36:37.655] [info]  [updater] Download progress: 34%
+[2026-06-09 18:36:38.704] [info]  [updater] Download progress: 35%
+[2026-06-09 18:36:39.710] [info]  [updater] Download progress: 35%
+[2026-06-09 18:36:40.719] [info]  [updater] Download progress: 36%
+[2026-06-09 18:36:41.761] [info]  [updater] Download progress: 36%
+[2026-06-09 18:36:42.762] [info]  [updater] Download progress: 37%
+[2026-06-09 18:36:43.832] [info]  [updater] Download progress: 37%
+[2026-06-09 18:36:44.833] [info]  [updater] Download progress: 37%
+[2026-06-09 18:36:45.833] [info]  [updater] Download progress: 38%
+[2026-06-09 18:36:46.860] [info]  [updater] Download progress: 38%
+[2026-06-09 18:36:47.862] [info]  [updater] Download progress: 38%
+[2026-06-09 18:36:48.862] [info]  [updater] Download progress: 39%
+[2026-06-09 18:36:49.863] [info]  [updater] Download progress: 39%
+[2026-06-09 18:36:50.870] [info]  [updater] Download progress: 40%
+[2026-06-09 18:36:51.870] [info]  [updater] Download progress: 41%
+[2026-06-09 18:36:52.872] [info]  [updater] Download progress: 42%
+[2026-06-09 18:36:53.886] [info]  [updater] Download progress: 42%
+[2026-06-09 18:36:54.890] [info]  [updater] Download progress: 43%
+[2026-06-09 18:36:55.910] [info]  [updater] Download progress: 43%
+[2026-06-09 18:36:56.911] [info]  [updater] Download progress: 43%
+[2026-06-09 18:36:57.915] [info]  [updater] Download progress: 44%
+[2026-06-09 18:36:58.918] [info]  [updater] Download progress: 44%
+[2026-06-09 18:36:59.923] [info]  [updater] Download progress: 45%
+[2026-06-09 18:37:00.927] [info]  [updater] Download progress: 46%
+[2026-06-09 18:37:01.934] [info]  [updater] Download progress: 46%
+[2026-06-09 18:37:03.007] [info]  [updater] Download progress: 47%
+[2026-06-09 18:37:04.013] [info]  [updater] Download progress: 48%
+[2026-06-09 18:37:05.020] [info]  [updater] Download progress: 49%
+[2026-06-09 18:37:06.023] [info]  [updater] Download progress: 49%
+[2026-06-09 18:37:07.026] [info]  [updater] Download progress: 50%
+[2026-06-09 18:37:08.034] [info]  [updater] Download progress: 51%
+[2026-06-09 18:37:09.036] [info]  [updater] Download progress: 51%
+[2026-06-09 18:37:10.040] [info]  [updater] Download progress: 52%
+[2026-06-09 18:37:11.047] [info]  [updater] Download progress: 53%
+[2026-06-09 18:37:12.047] [info]  [updater] Download progress: 54%
+[2026-06-09 18:37:13.051] [info]  [updater] Download progress: 55%
+[2026-06-09 18:37:14.051] [info]  [updater] Download progress: 56%
+[2026-06-09 18:37:15.056] [info]  [updater] Download progress: 57%
+[2026-06-09 18:37:16.056] [info]  [updater] Download progress: 58%
+[2026-06-09 18:37:17.061] [info]  [updater] Download progress: 59%
+[2026-06-09 18:37:18.062] [info]  [updater] Download progress: 60%
+[2026-06-09 18:37:19.073] [info]  [updater] Download progress: 61%
+[2026-06-09 18:37:20.074] [info]  [updater] Download progress: 62%
+[2026-06-09 18:37:21.074] [info]  [updater] Download progress: 63%
+[2026-06-09 18:37:22.077] [info]  [updater] Download progress: 64%
+[2026-06-09 18:37:23.081] [info]  [updater] Download progress: 65%
+[2026-06-09 18:37:24.159] [info]  [updater] Download progress: 66%
+[2026-06-09 18:37:25.176] [info]  [updater] Download progress: 67%
+[2026-06-09 18:37:26.181] [info]  [updater] Download progress: 67%
+[2026-06-09 18:37:27.182] [info]  [updater] Download progress: 67%
+[2026-06-09 18:37:28.206] [info]  [updater] Download progress: 67%
+[2026-06-09 18:37:29.223] [info]  [updater] Download progress: 68%
+[2026-06-09 18:37:30.227] [info]  [updater] Download progress: 68%
+[2026-06-09 18:37:31.235] [info]  [updater] Download progress: 68%
+[2026-06-09 18:37:32.262] [info]  [updater] Download progress: 68%
+[2026-06-09 18:37:33.266] [info]  [updater] Download progress: 68%
+[2026-06-09 18:37:34.280] [info]  [updater] Download progress: 69%
+[2026-06-09 18:37:35.293] [info]  [updater] Download progress: 69%
+[2026-06-09 18:37:36.298] [info]  [updater] Download progress: 69%
+[2026-06-09 18:37:37.310] [info]  [updater] Download progress: 70%
+[2026-06-09 18:37:38.315] [info]  [updater] Download progress: 70%
+[2026-06-09 18:37:39.318] [info]  [updater] Download progress: 70%
+[2026-06-09 18:37:40.339] [info]  [updater] Download progress: 70%
+[2026-06-09 18:37:41.342] [info]  [updater] Download progress: 71%
+[2026-06-09 18:37:42.356] [info]  [updater] Download progress: 71%
+[2026-06-09 18:37:43.362] [info]  [updater] Download progress: 71%
+[2026-06-09 18:37:44.364] [info]  [updater] Download progress: 72%
+[2026-06-09 18:37:45.374] [info]  [updater] Download progress: 72%
+[2026-06-09 18:37:46.381] [info]  [updater] Download progress: 73%
+[2026-06-09 18:37:47.387] [info]  [updater] Download progress: 73%
+[2026-06-09 18:37:50.282] [info]  [updater] Download progress: 73%
+[2026-06-09 18:37:51.483] [info]  [updater] Download progress: 73%
+[2026-06-09 18:37:52.528] [info]  [updater] Download progress: 73%
+[2026-06-09 18:37:53.533] [info]  [updater] Download progress: 73%
+[2026-06-09 18:37:54.537] [info]  [updater] Download progress: 74%
+[2026-06-09 18:37:55.550] [info]  [updater] Download progress: 74%
+[2026-06-09 18:37:56.579] [info]  [updater] Download progress: 74%
+[2026-06-09 18:37:57.588] [info]  [updater] Download progress: 75%
+[2026-06-09 18:37:58.591] [info]  [updater] Download progress: 75%
+[2026-06-09 18:37:59.600] [info]  [updater] Download progress: 76%
+[2026-06-09 18:38:00.604] [info]  [updater] Download progress: 77%
+[2026-06-09 18:38:01.617] [info]  [updater] Download progress: 77%
+[2026-06-09 18:38:03.080] [info]  [updater] Download progress: 77%
+[2026-06-09 18:38:04.100] [info]  [updater] Download progress: 77%
+[2026-06-09 18:38:05.100] [info]  [updater] Download progress: 77%
+[2026-06-09 18:38:06.108] [info]  [updater] Download progress: 78%
+[2026-06-09 18:38:07.108] [info]  [updater] Download progress: 78%
+[2026-06-09 18:38:08.108] [info]  [updater] Download progress: 79%
+[2026-06-09 18:38:09.118] [info]  [updater] Download progress: 80%
+[2026-06-09 18:38:10.118] [info]  [updater] Download progress: 81%
+[2026-06-09 18:38:11.154] [info]  [updater] Download progress: 82%
+[2026-06-09 18:38:12.155] [info]  [updater] Download progress: 83%
+[2026-06-09 18:38:13.158] [info]  [updater] Download progress: 84%
+[2026-06-09 18:38:14.171] [info]  [updater] Download progress: 84%
+[2026-06-09 18:38:15.185] [info]  [updater] Download progress: 85%
+[2026-06-09 18:38:16.194] [info]  [updater] Download progress: 86%
+[2026-06-09 18:38:17.194] [info]  [updater] Download progress: 87%
+[2026-06-09 18:38:18.210] [info]  [updater] Download progress: 87%
+[2026-06-09 18:38:19.218] [info]  [updater] Download progress: 88%
+[2026-06-09 18:38:20.224] [info]  [updater] Download progress: 88%
+[2026-06-09 18:38:21.234] [info]  [updater] Download progress: 89%
+[2026-06-09 18:38:22.234] [info]  [updater] Download progress: 90%
+[2026-06-09 18:38:23.238] [info]  [updater] Download progress: 90%
+[2026-06-09 18:38:24.241] [info]  [updater] Download progress: 91%
+[2026-06-09 18:38:25.273] [info]  [updater] Download progress: 92%
+[2026-06-09 18:38:26.273] [info]  [updater] Download progress: 92%
+[2026-06-09 18:38:27.285] [info]  [updater] Download progress: 93%
+[2026-06-09 18:38:28.291] [info]  [updater] Download progress: 94%
+[2026-06-09 18:38:29.300] [info]  [updater] Download progress: 95%
+[2026-06-09 18:38:30.320] [info]  [updater] Download progress: 95%
+[2026-06-09 18:38:31.322] [info]  [updater] Download progress: 96%
+[2026-06-09 18:38:32.322] [info]  [updater] Download progress: 97%
+[2026-06-09 18:38:33.324] [info]  [updater] Download progress: 98%
+[2026-06-09 18:38:34.325] [info]  [updater] Download progress: 99%
+[2026-06-09 18:38:35.333] [info]  [updater] Download progress: 100%
+[2026-06-09 18:38:35.778] [info]  [updater] Download progress: 100%
+[2026-06-09 18:38:35.782] [info]  New version 1.1.62 has been downloaded to C:\Users\root\AppData\Local\pencil-updater\pending\Pencil-1.1.62-win-x64.exe
+[2026-06-09 18:38:35.784] [info]  [updater] Update downloaded: 1.1.62
+[2026-06-09 18:38:35.786] [debug] Sending notification 'desktop-update-ready'
+[2026-06-09 18:38:35.787] [debug] Sending notification: desktop-update-ready { id: 'ext-13-1781001515786', hasPayload: true }
+[2026-06-09 18:54:38.812] [info]  Checking for update
+[2026-06-09 18:54:38.814] [info]  [updater] Checking for update…
+[2026-06-09 18:54:39.449] [info]  Found version 1.1.62 (url: Pencil-1.1.62-win-arm64.exe, Pencil-1.1.62-win-x64.exe, Pencil-1.1.62-win.exe)
+[2026-06-09 18:54:39.449] [info]  [updater] Update available: 1.1.62
+[2026-06-09 18:54:39.450] [info]  Downloading update from Pencil-1.1.62-win-arm64.exe, Pencil-1.1.62-win-x64.exe, Pencil-1.1.62-win.exe
+[2026-06-09 18:54:39.452] [info]  [updater] Update downloaded: 1.1.62
+[2026-06-09 18:54:39.455] [debug] Sending notification 'desktop-update-ready'
+[2026-06-09 18:54:39.456] [debug] Sending notification: desktop-update-ready { id: 'ext-14-1781002479455', hasPayload: true }
+[2026-06-09 19:10:38.707] [info]  MCP client disconnected: 53a0f379-4746-4b49-ae79-45804ee4592a
+[2026-06-09 19:10:52.285] [info]  removeResource: D:\workspace\mywork\ideaProjects\boot_ai_alibaba\docs\数字人交互设计.pen
+[2026-06-09 19:10:52.286] [info]  [app] window-all-closed
+[2026-06-09 19:10:52.286] [info]  [app] before-quit
+[2026-06-09 19:10:52.287] [info]  [app] will-quit
+[2026-06-09 19:10:52.287] [info]  [app] Running cleanup…
+[2026-06-09 19:10:52.287] [info]  stopAllAgents()
+[2026-06-09 19:10:52.289] [info]  Transport server stopping
+[2026-06-09 19:10:52.289] [info]  Transport server stopped
+[2026-06-09 19:10:52.290] [info]  [app] Cleanup done
+[2026-06-09 19:10:52.290] [info]  [updater] quitAndInstallIfUpdateDownloaded: updateDownloaded=true, installOnAppQuit=false, forceQuitAndInstall=undefined, isQuitting=true
+[2026-06-09 19:10:52.294] [info]  [updater] No update to install, already quitting
+[2026-06-09 19:10:52.536] [info]  [app] quit (exitCode=0)
